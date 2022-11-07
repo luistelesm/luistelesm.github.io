@@ -63,6 +63,8 @@ author:
   name   : "Luís Teles Morais"
   avatar : "/assets/images/ltm-photo.jpg"
   bio    : "PhD candidate at Nova School of Business and Economics"
+  location : "Cascais, Portugal"
+  email: "luis.teles.m@novasbe.pt"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

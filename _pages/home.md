@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "Home page"
+permalink: /
+title: ""
 ---
 
 ### Welcome

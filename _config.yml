@@ -64,33 +64,30 @@ plugins:
 author:
   name   : "Luís Teles Morais"
   avatar : "/assets/images/ltm-photo.jpg"
-  bio    : "I'm a PhD candidate at Nova School of Business and Economics. 
-  My research interests lie in macroeconomics, household finance and public finance."
+  bio    : "PhD candidate at Nova School of Business and Economics"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/_luistm"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/luistelesm"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://pt.linkedin.com/in/lu%C3%ADs-teles-morais-8928a024"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/_luistm"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/luistelesm"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://pt.linkedin.com/in/lu%C3%ADs-teles-morais-8928a024"
+
 
 defaults:
   # _posts

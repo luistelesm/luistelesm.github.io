@@ -25,7 +25,6 @@ twitter_username: _luistm
 github_username: luistelesm
 minimal_mistakes_skin: dirt
 search: false
-#true
 repository:"luistelesm/luistelesm.github.io"
 
 # Build settings
@@ -66,27 +65,24 @@ author:
   avatar : "/assets/images/ltm-photo.jpg"
   bio    : "PhD candidate at Nova School of Business and Economics"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_luistm"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/luistelesm"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://pt.linkedin.com/in/lu%C3%ADs-teles-morais-8928a024"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_luistm"
+    - label: "Nova SBE"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.novasbe.pt"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_luistm"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/luistelesm"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://pt.linkedin.com/in/lu%C3%ADs-teles-morais-8928a024"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_luistm"
 
 
 defaults:

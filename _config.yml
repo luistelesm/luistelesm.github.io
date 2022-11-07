@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Luís Teles Morais
+subtitle: "Personal website"
+url: "https://luistelesm.github.io"
 email: luis.teles.m@novasbe.pt
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a PhD candidate at Nova School of Business and Economics. 
@@ -22,7 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: _luistm
 github_username: luistelesm
 minimal_mistakes_skin: dirt
-search: true
+search: false
+#true
+repository:"luistelesm/luistelesm.github.io"
 
 # Build settings
 markdown: kramdown

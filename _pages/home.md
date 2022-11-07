@@ -3,10 +3,12 @@ permalink: /
 title: ""
 ---
 
-> This will be my personal website. It's still work in progress - come back soon for updates.
+> This is my personal website. It's still work in progress - come back soon for updates.
 
 
-I am a PhD candidate in Economics at [Nova School of Business and Economics](http://novasbe.pt). My research interests lie in macroeconomics, household finance and public finance.
+I am a **PhD candidate in Economics at [Nova School of Business and Economics](http://novasbe.pt)**.
+
+I work under the supervision of [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco) and [João B. Duarte](https://jbduarte.com). My research interests lie in macroeconomics, household finance and public finance.
 
 
 #### Research

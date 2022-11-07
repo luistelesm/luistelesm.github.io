@@ -1,8 +1,7 @@
 ---
 permalink: /
 title: ""
-header:
-	image: /assets/images/IMG_1450.jpeg
+image: "assets/images/IMG_1450.jpeg"
 ---
 
 > This is my personal website. It's still work in progress - come back soon for updates.

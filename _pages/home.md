@@ -14,7 +14,7 @@ I work under the supervision of [Francesco Franco](https://www.novasbe.unl.pt/en
 
 ## Research
 
-<b>_Work in progress_</b>
+_Work in progress_
 
 - "The mortgage piggy bank and saving behavior over the wealth distribution"
 

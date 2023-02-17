@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:GMT Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=10
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;INTERVAL=1;BYDAY=-1SU;BYMONTH=3
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Fabian Waßmann;SENT-BY="mailto:21310@novasbe.pt":mailto:51531@n
+ ovasbe.pt
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Luís Tele
+ s Morais:mailto:luistelesmorais@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Fabian Wa
+ ßmann:mailto:51531@novasbe.pt
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=_DL PhD Ec
+ onomics and Finance:mailto:dl.phd.economics.finance@novasbe.pt
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Alex Arman
+ d:mailto:alex.armand@novasbe.pt
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Irem Demir
+ ci:mailto:irem.demirci@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jiaming Li
+ u:mailto:33109@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Andrej Smi
+ rnov:mailto:51552@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Massimilia
+ no Bondatti:mailto:38783@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Stefanus L
+ eeffers:mailto:stefan.leeffers@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Mattia Fra
+ cchia:mailto:mattia.fracchia@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Laman Oruj
+ ova:mailto:laman.orujova@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=João Firm
+ ino:mailto:joao.firmino@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Matilde Po
+ lónia Gonçalves Grácio:mailto:matilde.g.gracio@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Marlon Edu
+ ardo Martins Francisco:mailto:marlon.francisco@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Mariana de
+  Castro A. Marques Videira:mailto:51551@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Luís Tele
+ s Morais:mailto:21310@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Luisa Ribe
+ iro von Glehn Nobre:mailto:luisa.nobre@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Francisco 
+ José França Rodrigues:mailto:francisco.rodrigues@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Mariana Ne
+ to Pires:mailto:25913@novasbe.pt
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Pedro Migu
+ el Carreira Santos:mailto:pedro.santos@novasbe.pt
+DESCRIPTION;LANGUAGE=pt-PT:\n\n\n________________________________________\n
+ De: Fabian Waßmann <51531@novasbe.pt>\nEnviado: 1 de fevereiro de 2023 14
+ :53:42 (UTC+00:00) Dublin\, Edinburgh\, Lisbon\, London\nPara: Fabian Waß
+ mann\; _DL PhD Economics and Finance\; Alex Armand\; Irem Demirci\nCc: Jia
+ ming Liu\; Andrej Smirnov\; Massimiliano Bondatti\; Stefanus Leeffers\; Ma
+ ttia Fracchia\; Laman Orujova\; João Firmino\; Matilde Polónia Gonçalve
+ s Grácio\; Marlon Eduardo Martins Francisco\; Mariana de Castro A. Marque
+ s Videira\; Luís Teles Morais\; Luisa Ribeiro von Glehn Nobre\; Francisco
+  José França Rodrigues\; Mariana Neto Pires\; Pedro Miguel Carreira Sant
+ os\nAssunto: PhD Research Group\nQuando: Ocorre a cada sexta-feira desde 0
+ 9:30 até 11:00\, de 17/02/2023 a 10/03/2023.\nOnde: D-113\n\nCalendar blo
+ cker for weekly PhD Research Group sessions. More information here: https:
+ //sites.google.com/view/nova-phd-research-group/research-group?authuser=0\
+ n_________________________________________________________________________
+ _______\nMicrosoft Teams meeting\nJoin on your computer\, mobile app or ro
+ om device\nClick here to join the meeting<https://teams.microsoft.com/l/me
+ etup-join/19%3ameeting_NTljZDNmOTQtYzQ2OS00MjYwLWE5OWItY2EyYWI2Y2M3ZDQ1%40
+ thread.v2/0?context=%7b%22Tid%22%3a%22c42931e3-6733-41e6-8d42-c48ba334bba4
+ %22%2c%22Oid%22%3a%2230302d84-164f-4209-9136-86faf4f5608d%22%7d>\nMeeting 
+ ID: 350 600 671 363\nPasscode: Jfojf8\nDownload Teams<https://www.microsof
+ t.com/en-us/microsoft-teams/download-app> | Join on the web<https://www.mi
+ crosoft.com/microsoft-teams/join-a-meeting>\nLearn More<https://aka.ms/Joi
+ nTeamsMeeting> | Meeting options<https://teams.microsoft.com/meetingOption
+ s/?organizerId=30302d84-164f-4209-9136-86faf4f5608d&tenantId=c42931e3-6733
+ -41e6-8d42-c48ba334bba4&threadId=19_meeting_NTljZDNmOTQtYzQ2OS00MjYwLWE5OW
+ ItY2EyYWI2Y2M3ZDQ1@thread.v2&messageId=0&language=en-US> | Legal<https://w
+ ww2.novasbe.unl.pt/en/>\n_________________________________________________
+ _______________________________\n\n
+RRULE:FREQ=WEEKLY;UNTIL=20230310T093000Z;INTERVAL=1;BYDAY=FR;WKST=MO
+UID:040000008200E00074C5B7101A82E0080000000090A7C3ED4B36D901000000000000000
+ 0100000008DD964868514AE4390FAD98EEC556A3E
+SUMMARY;LANGUAGE=pt-PT:FW: PhD Research Group
+DTSTART;TZID=GMT Standard Time:20230217T093000
+DTEND;TZID=GMT Standard Time:20230217T110000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230201T145315Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=pt-PT:D-113
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:1268852711
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:1
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "D-113"\, "LocationAnnotation" : 
+ ""\, "LocationSource" : 0\, "Unresolved" : true\, "LocationUri" : "" } ]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

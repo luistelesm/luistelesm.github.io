@@ -14,9 +14,11 @@ My research interests lie in **macroeconomics, household finance and public fina
 
 _Work in progress_
 
-- "The mortgage piggy bank, saving behavior and wealth inequality"
+- "Cashing in on wealth: links between income and wealth inequality from the lens of Distributional Wealth Accounts" <br> with Nina Blatnik and [Ilja Kristian Kavonius](https://www.ecb.europa.eu/pub/research/authors/profiles/ilja-kristian-kavonius.en.html)
 
 - "The fiscal burden of aging: can opening borders close the gap?" <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)
+
+- "The mortgage piggy bank, saving behavior and wealth inequality"
 
 _Please reach out by e-mail for preliminary drafts._
 

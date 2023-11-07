@@ -7,9 +7,9 @@ image: "assets/images/IMG_1450.jpeg"
 
 I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt).
 
-My research interests lie in **macroeconomics, household finance and public finance**. My advisors are [João B. **Duarte**](https://jbduarte.com) and [Francesco **Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
+- I am currently visiting [Zicklin School of Business, CUNY Baruch College](https://zicklin.baruch.cuny.edu/) (Nov/Dec 2023). 
 
-- I am currently visiting Zicklin School of Business, Baruch College (Nov/Dec 2023). 
+My research interests lie in **macroeconomics, household finance and public finance**. My advisors are [João B. **Duarte**](https://jbduarte.com) and [Francesco **Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
 
 
 #### Research

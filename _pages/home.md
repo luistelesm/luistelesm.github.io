@@ -5,9 +5,9 @@ image: "assets/images/IMG_1450.jpeg"
 ---
 
 
-I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt).
+Welcome to my personal website. I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt).
 
-My research interests lie in **macroeconomics, household finance and public finance**. My advisors are [João B. **Duarte**](https://jbduarte.com) and [Francesco **Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
+My research interests lie in **macroeconomics, household finance, migration and public finance**. My advisors are [João B. **Duarte**](https://jbduarte.com) and [Francesco **Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
 
 
 #### Research

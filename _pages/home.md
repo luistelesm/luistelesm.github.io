@@ -5,7 +5,9 @@ image: "assets/images/IMG_1450.jpeg"
 ---
 
 
-Welcome to my personal website. I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). I am currently visiting the [Department of Finance at NYU Stern School of Business](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance).
+Welcome to my personal website. I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). 
+
+During Spring 2024, I am visiting the Department of Finance, [NYU Stern School of Business](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance).
 
 My research interests lie in **macroeconomics, household finance, and public finance**. My advisors are [João B. **Duarte**](https://jbduarte.com) and [Francesco **Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
 

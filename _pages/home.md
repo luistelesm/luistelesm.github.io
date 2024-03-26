@@ -12,7 +12,7 @@ During Spring 2024, I am visiting the Department of Finance, [NYU Stern School o
 My research interests lie in **macroeconomics, household finance, and public finance**. My advisors are [**João B. Duarte**](https://jbduarte.com) and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
 
 
-#### Research
+### Research
 
 _Working paper_
 - "The costs of building walls: immigration and the fiscal burden of aging in Europe" <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)

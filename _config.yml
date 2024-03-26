@@ -28,7 +28,7 @@ repository: "luistelesm/luistelesm.github.io"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: luistelesm/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 2 # amount of posts to show

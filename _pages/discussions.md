@@ -4,8 +4,7 @@ title: ""
 image: "assets/images/IMG_1450.jpeg"
 ---
 
-#### Discussions at conferences and seminars
-<br><br>
+## Discussions at conferences and seminars
 
 **Should I stay or should I go? The role of housing in understanding limited inter-regional worker mobility** by [J. Bojeryd](https://www.jesperbojeryd.se)<br>
 _The Economics of Migration Junior Seminar, 26 March 2024_ [**(slides)**](/files/Bojeryd_2024_Discussion_LTM_v1.5_27.03.2024.pdf)

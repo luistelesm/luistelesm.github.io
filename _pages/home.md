@@ -16,8 +16,8 @@ My research interests lie in **macroeconomics, household finance, and public fin
 
 _Working paper_
 
-**The costs of building walls: immigration and the fiscal burden of aging in Europe** <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)
-	- [CGO version](https://www.thecgo.org/wp-content/uploads/2024/02/CGO-2024-Immigration-WorkingPaper-Feb-CostsofBuildingWalls.pdf)
+**The costs of building walls: immigration and the fiscal burden of aging in Europe** <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)<br>
+[**(CGO version)**](https://www.thecgo.org/wp-content/uploads/2024/02/CGO-2024-Immigration-WorkingPaper-Feb-CostsofBuildingWalls.pdf)
 
 _Work in progress_
 

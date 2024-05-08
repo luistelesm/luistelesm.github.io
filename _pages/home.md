@@ -14,11 +14,6 @@ My research interests lie in **macroeconomics, household finance, and public fin
 
 ## Research
 
-_Working paper_
-
-**The costs of building walls: immigration and the fiscal burden of aging in Europe** <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)<br>
-[**(CGO version)**](https://www.thecgo.org/wp-content/uploads/2024/02/CGO-2024-Immigration-WorkingPaper-Feb-CostsofBuildingWalls.pdf) (_New version coming soon!_)
-
 _Work in progress_
 
 **Aggregate shocks, household wealth portfolios and inequality** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://www2.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/209/melissa-ferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)
@@ -27,3 +22,7 @@ _Work in progress_
 
 _Please reach out by e-mail for preliminary drafts._
 
+_Working paper_
+
+**The costs of building walls: immigration and the fiscal burden of aging in Europe** <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)<br>
+[**(CGO version)**](https://www.thecgo.org/wp-content/uploads/2024/02/CGO-2024-Immigration-WorkingPaper-Feb-CostsofBuildingWalls.pdf) (_New version coming soon!_)

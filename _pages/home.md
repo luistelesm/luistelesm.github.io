@@ -7,7 +7,7 @@ image: "assets/images/IMG_1450.jpeg"
 
 Welcome to my personal website. I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). 
 
-During my PhD, I spent time at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), [Baruch College, CUNY](https://zicklin.baruch.cuny.edu/Department/real-estate-faculty/), and at the European Central Bank (https://www.ecb.europa.eu/home/html/index.en.html).
+During my PhD, I spent time as a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), at [Baruch College, CUNY](https://zicklin.baruch.cuny.edu/Department/real-estate-faculty/), and at [U. Pompeu Fabra](https://www.upf.edu/web/econ/), and worked for the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
 
 My research interests lie in **macroeconomics, household finance, and public finance**. My advisors are [**João B. Duarte**](https://jbduarte.com) and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
 

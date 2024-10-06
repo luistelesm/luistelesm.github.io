@@ -25,4 +25,7 @@ _Work in progress_
 
 **Mortgage contract design, saving rates and the wealth distribution**
 
+**What is the cost of home ownership?** <br> with [Pedro Brinca](https://pedrobrinca.pt), [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)
+
+
 _Please reach out by e-mail for preliminary drafts._

@@ -8,58 +8,6 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* === Custom Overrides for Light, Full-Width Layout === */
-
-/* Make the overall background white and text dark */
-body {
-  background-color: #ffffff;
-  color: #333333;
-}
-
-/* Ensure the main container spans full browser width */
-.container,
-.site-container,
-.page__content {
-  max-width: 100% !important;
-  width: 100% !important;
-  padding-left: 1.5rem !important;
-  padding-right: 1.5rem !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-
-/* Hide any sidebar so no blank right-hand whitespace appears */
-.sidebar,
-.site-sidebar {
-  display: none !important;
-}
-
-/* Adjust headings for better contrast on white background */
-h1, h2, h3, h4 {
-  color: #222222 !important;
-  margin-top: 1.4rem !important;
-  margin-bottom: 0.8rem !important;
-}
-
-/* Style links with a dark-blue color, and underline on hover */
-a {
-  color: #005ea2 !important;
-  text-decoration: none !important;
-}
-a:hover {
-  text-decoration: underline !important;
-}
-
-/* Add subtle horizontal rule and spacing between paper entries */
-.paper-block {
-  padding-bottom: 1.5rem;
-  margin-bottom: 1.5rem;
-  border-bottom: 1px solid #e0e0e0;
-}
-.paper-block a {
-  font-size: 0.9rem !important;
-}
-
 html {
   font-size: 12px; // change to whatever
 

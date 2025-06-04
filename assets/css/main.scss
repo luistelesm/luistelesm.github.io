@@ -23,3 +23,45 @@ html {
     font-size: 18px; // change to whatever
   }
 }
+
+// Fix whitespace on the right side
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.page__content,
+.page__meta,
+.page__share,
+.page__related,
+.masthead__inner-wrap,
+.greedy-nav,
+.page {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+// Ensure main content area doesn't overflow
+.page__inner-wrap {
+  max-width: 100%;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+// Fix long URLs and links that cause overflow
+.page__content {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+.page__content a {
+  word-break: break-all;
+  overflow-wrap: break-word;
+}
+
+// Fix any wide content that might cause overflow
+.wide {
+  max-width: 100% !important;
+}

@@ -3,7 +3,7 @@ layout: single
 title: ""
 permalink: /
 author_profile: true     # bring back sidebar photo/bio
-classes: ["wide", "home-no-title"]   # adds a page-specific class
+classes: "wide"   # adds a page-specific class
 header:                       # pushes the whole body down a bit
   overlay_color: "#ffffff"
   overlay_filter: 0

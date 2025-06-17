@@ -18,6 +18,13 @@ search: false
   max-width: 450px;                  /* was 256px */
 }
 
+@media (min-width: 768px) {
+  .sidebar {
+    flex: 0 0 300px !important;
+    max-width: 300px !important;
+  }
+}
+
 /* 2 ▸ Enlarge the circular headshot in the sidebar */
 .sidebar .author__avatar {
   max-width: 420px;                  /* was 110–140px depending on skin */

@@ -4,10 +4,6 @@ title: ""
 permalink: /
 author_profile: true     # bring back sidebar photo/bio
 classes: "wide"   # adds a page-specific class
-header:                       # pushes the whole body down a bit
-  overlay_color: "#ffffff"
-  overlay_filter: 0
-  height: 15vh                # white strip — acts like extra margin
 ---
 
 

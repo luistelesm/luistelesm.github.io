@@ -8,6 +8,47 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* ———  LAYOUT OVERRIDES ——— */
+
+/* 1 ▸ Make the reading column and sidebar both roomier */
+.page {
+  max-width: 1080px;                 /* was 920px */
+}
+.sidebar {
+  max-width: 310px;                  /* was 256px */
+}
+
+/* 2 ▸ Enlarge the circular headshot in the sidebar */
+.sidebar .author__avatar {
+  max-width: 220px;                  /* was 110–140px depending on skin */
+  margin-bottom: 1.5rem;
+}
+
+/* 3 ▸ Add breathing room around the very top and between sections */
+body.layout--single {
+  padding-top: 3.5rem;               /* extra white band above everything */
+}
+.page__content {
+  line-height: 1.8;
+}
+.page__content > h2:first-of-type {   /* pushes “Research” farther down */
+  margin-top: 4rem;
+}
+
+/* 4 ▸ Friendly contact button right under About text */
+.page__content a.contact-btn {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  margin-top: 1rem;
+  border: 2px solid currentColor;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.page__content a.contact-btn:hover {
+  background: currentColor;
+  color: #fff;
+}
+
 html {
   font-size: 12px; // change to whatever
 

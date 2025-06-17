@@ -1,25 +1,17 @@
 ---
-layout: splash
+layout: single           # restores the two‑column look
 permalink: /
 title: "Luís Teles Morais"
 subtitle: "PhD Candidate · Nova SBE"
 excerpt: "Macroeconomics · Household Finance · Public Finance"
-author_profile: false
-header:
-  overlay_image: /assets/images/IMG_1450.jpeg
+author_profile: true     # bring back sidebar photo/bio
+classes: wide            # slightly wider reading column for more “air”
+header:                       # pushes the whole body down a bit
   overlay_color: "#ffffff"
-  overlay_filter: "0"
-  actions:
-    - label: "Job‑Market Paper"
-      url: /assets/papers/JMP_TelesMorais.pdf
-      icon: fa-file-pdf
-    - label: "CV"
-      url: /assets/CV_TelesMorais.pdf
-      icon: fa-file-pdf
-    - label: "Email"
-      url: "mailto:luis.teles@novasbe.pt"
-      icon: fa-envelope
+  overlay_filter: 0
+  height: 15vh                # white strip — acts like extra margin
 ---
+
 
 I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). 
 

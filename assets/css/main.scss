@@ -63,3 +63,7 @@ html {
   }
 }
 
+// Add to your custom CSS file or _sass/minimal-mistakes/_custom.scss
+.greedy-nav .site-title {
+  display: none !important;
+}

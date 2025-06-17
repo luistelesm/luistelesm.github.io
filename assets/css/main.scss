@@ -64,3 +64,9 @@ html {
     font-size: 18px; // change to whatever
   }
 }
+
+/* Hide the text site-title so only the logo shows */
+.masthead .site-title span { display: none; }
+
+/* Keep the logo nicely sized */
+.site-logo { max-height: 38px; }   /* adjust height as you like */

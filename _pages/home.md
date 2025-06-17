@@ -1,6 +1,5 @@
 ---
 permalink: /
-layout: hero-split
 title: ""
 image: "assets/images/IMG_1450.jpeg"
 ---

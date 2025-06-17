@@ -7,11 +7,11 @@ classes: "wide"   # adds a page-specific class
 ---
 
 
-Welcome! I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). 
+Welcome! I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt).
 
-During the PhD, I spent time as a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), at [Baruch College, CUNY](https://zicklin.baruch.cuny.edu/), and at [U. Pompeu Fabra](https://www.upf.edu/web/econ/); I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) as a PhD trainee and research analyst.
+During the PhD, I have been a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), at [Baruch College, CUNY](https://zicklin.baruch.cuny.edu/), and at [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) as a PhD trainee and research analyst.
 
-My research interests are between macroeconomics and finance, focusing on household finance, consumption and saving, and housing. My supervisors are [**João B. Duarte**](https://jbduarte.com) and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
+My research interests lie at the intersection of macroeconomics and finance, focusing on household finance, consumption and saving, and housing. My supervisors are [**João B. Duarte**](https://jbduarte.com) and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
 
 Reach out at: luis.teles.m [at] novasbe [dot] pt
 

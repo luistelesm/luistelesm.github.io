@@ -65,8 +65,7 @@ html {
   }
 }
 
-/* Hide the text site-title so only the logo shows */
-.masthead .site-title span { display: none; }
-
-/* Keep the logo nicely sized */
-.site-logo { max-height: 38px; }   /* adjust height as you like */
+/* ——— Hide the navbar text title, keep only the logo ——— */
+header#masthead .site-branding .site-title {
+  display: none !important;
+}

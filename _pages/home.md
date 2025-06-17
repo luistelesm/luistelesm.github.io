@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-layout: single
+layout: home-custom
 classes: wide
 ---
 

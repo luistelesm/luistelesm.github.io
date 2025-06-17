@@ -1,9 +1,9 @@
 main:
   - title: "Research"
-    url: /
+    url: /#research
 
   - title: "Discussions"
-    url: /discussions
+    url: /#discussions
 
   - title: "CV"
     url: /files/CV_Luis_Teles_Morais.pdf

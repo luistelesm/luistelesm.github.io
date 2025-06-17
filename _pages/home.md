@@ -1,17 +1,33 @@
 ---
+layout: splash
 permalink: /
-title: ""
-image: "assets/images/IMG_1450.jpeg"
+title: "Luís Teles Morais"
+subtitle: "PhD Candidate · Nova SBE"
+excerpt: "Macroeconomics · Household Finance · Public Finance"
+author_profile: false
+header:
+  overlay_image: /assets/images/IMG_1450.jpeg
+  overlay_color: "#ffffff"
+  overlay_filter: "0"
+  actions:
+    - label: "Job‑Market Paper"
+      url: /assets/papers/JMP_TelesMorais.pdf
+      icon: fa-file-pdf
+    - label: "CV"
+      url: /assets/CV_TelesMorais.pdf
+      icon: fa-file-pdf
+    - label: "Email"
+      url: "mailto:luis.teles@novasbe.pt"
+      icon: fa-envelope
 ---
 
-
-Welcome to my personal website. I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). 
+I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). 
 
 During my PhD, I spent time as a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), at [Baruch College, CUNY](https://zicklin.baruch.cuny.edu/Department/real-estate-faculty/), and at [U. Pompeu Fabra](https://www.upf.edu/web/econ/), and worked for the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
 
 My research interests lie in **macroeconomics, household finance, and public finance**. My advisors are [**João B. Duarte**](https://jbduarte.com) and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
 
-
+<a id="research"></a>
 ## Research
 
 _Working paper_

@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: _luistm
 github_username: luistelesm
 minimal_mistakes_skin: contrast
-logo: "/assets/images/nova-variant-logo.png"
+logo: "/assets/images/NovaPrincipalV2.png"
 
 search: false
 repository: "luistelesm/luistelesm.github.io"
@@ -63,7 +63,7 @@ plugins:
 
 author:
   name   : "Luís Teles Morais"
-  avatar : "/assets/images/ltm-photo.jpg"
+  avatar : "/assets/images/ltm-photo-large.jpg"
   bio    : "PhD candidate at Nova School of Business and Economics"
   location : "Cascais, Portugal"
   email: "luis.teles.m@novasbe.pt"

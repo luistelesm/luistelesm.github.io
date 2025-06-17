@@ -47,6 +47,15 @@ search: false
   color: #fff;
 }
 
+// Add to your custom CSS file or _sass/minimal-mistakes/_custom.scss
+.layout--home .page__inner-wrap {
+  margin-top: 4em;
+  
+  @include breakpoint($large) {
+    margin-top: 6em;
+  }
+}
+
 html {
   font-size: 12px; // change to whatever
 

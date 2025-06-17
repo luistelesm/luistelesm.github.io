@@ -24,16 +24,7 @@ search: false
   margin-bottom: 1.5rem;
 }
 
-/* 3 ▸ Add breathing room around the very top and between sections */
-body.layout--single {
-  padding-top: 3.5rem;               /* extra white band above everything */
-}
-.page__content {
-  line-height: 1.8;
-}
-.page__content > h2:first-of-type {   /* pushes “Research” farther down */
-  margin-top: 4rem;
-}
+
 
 /* 4 ▸ Friendly contact button right under About text */
 .page__content a.contact-btn {
@@ -65,7 +56,3 @@ html {
   }
 }
 
-/* ——— Hide the navbar text title, keep only the logo ——— */
-header#masthead .site-branding .site-title {
-  display: none !important;
-}

@@ -1,9 +1,6 @@
 ---
 layout: single           # restores the two‑column look
 permalink: /
-title: "Luís Teles Morais"
-subtitle: "PhD Candidate · Nova SBE"
-excerpt: "Macroeconomics · Household Finance · Public Finance"
 author_profile: true     # bring back sidebar photo/bio
 classes: wide            # slightly wider reading column for more “air”
 header:                       # pushes the whole body down a bit

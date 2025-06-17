@@ -1,8 +1,9 @@
 ---
-layout: single           # restores the two‑column look
+layout: single
+title: ""
 permalink: /
 author_profile: true     # bring back sidebar photo/bio
-classes: wide            # slightly wider reading column for more “air”
+classes: ["wide", "home-no-title"]   # adds a page-specific class
 header:                       # pushes the whole body down a bit
   overlay_color: "#ffffff"
   overlay_filter: 0

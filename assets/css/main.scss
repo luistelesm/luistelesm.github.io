@@ -8,23 +8,36 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Add modern typography
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
+// Typography upgrades
 html {
-  font-size: 12px; // change to whatever
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.01em;
+  font-size: 12px; // your existing responsive sizes
 
   @include breakpoint($medium) {
-    font-size: 14px; // change to whatever
+    font-size: 14px;
   }
 
   @include breakpoint($large) {
-    font-size: 16px; // change to whatever
+    font-size: 16px;
   }
 
   @include breakpoint($x-large) {
-    font-size: 18px; // change to whatever
+    font-size: 18px;
   }
 }
 
-// Fix whitespace on the right side
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.02em;
+}
+
+// Keep all your existing fixes
 body {
   margin: 0;
   padding: 0;
@@ -42,14 +55,12 @@ body {
   box-sizing: border-box;
 }
 
-// Ensure main content area doesn't overflow
 .page__inner-wrap {
   max-width: 100%;
   padding-left: 1em;
   padding-right: 1em;
 }
 
-// Fix long URLs and links that cause overflow
 .page__content {
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -61,7 +72,6 @@ body {
   overflow-wrap: break-word;
 }
 
-// Fix any wide content that might cause overflow
 .wide {
   max-width: 100% !important;
 }

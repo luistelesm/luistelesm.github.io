@@ -1,16 +1,17 @@
 ---
 permalink: /
 title: ""
-image: "assets/images/IMG_1450.jpeg"
+layout: home-custom
+classes: wide
 ---
 
+# Luís Teles Morais
 
-Welcome to my personal website. I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). 
+## PhD candidate in Economics at Nova School of Business and Economics
 
 During my PhD, I spent time as a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), at [Baruch College, CUNY](https://zicklin.baruch.cuny.edu/Department/real-estate-faculty/), and at [U. Pompeu Fabra](https://www.upf.edu/web/econ/), and worked for the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
 
 My research interests lie in **macroeconomics, household finance, and public finance**. My advisors are [**João B. Duarte**](https://jbduarte.com) and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
-
 
 ## Research
 
@@ -26,6 +27,5 @@ _Work in progress_
 **Mortgage contract design, saving rates and the wealth distribution**
 
 **What is the cost of home ownership?** <br> with [Pedro Brinca](https://pedrobrinca.pt), [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)
-
 
 _Please reach out by e-mail for preliminary drafts._

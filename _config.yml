@@ -68,6 +68,9 @@ author:
   location : "Cascais, Portugal"
   email: "luis.teles.m@novasbe.pt"
   links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/luís-teles-morais-8928a024"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/luistelesm"
@@ -76,17 +79,14 @@ author:
       url: "https://bsky.app/profile/luistm.bsky.social"
     - label: "Nova SBE"
       icon: "fas fa-fw fa-link"
-      url: "https://www.novasbe.pt"
+      url: "https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/204/luis-morais"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/files/CV_Luis_Teles_Morais.pdf"
+    
 
 footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/luistelesm"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_luistm"
-
+  links: []
 
 defaults:
   # _posts

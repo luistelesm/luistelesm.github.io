@@ -88,6 +88,9 @@ author:
 footer:
   links: []
 
+atom_feed:
+  hide: true
+
 defaults:
   # _posts
   - scope:

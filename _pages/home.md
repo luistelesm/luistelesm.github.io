@@ -36,7 +36,7 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt).
 
 **Mortgage structure, saving rates and the wealth distribution** (Job Market Paper)
 
- <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality - Gdansk, NYU Student Macro Lunch (x2), 9th Luxembourg Household Finance and Consumption Workshop, Banco de Portugal, LBS Transatlantic Doctoral Conference 2025, Young Economists’ Seminar at the 31st HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference - Vilnius, 18th PEJ Meeting+, Vigo Workshop on Dynamic Macroeconomics+, AREUEA International Conference 2025 Barcelona+ <i>(+ scheduled)</i></small>
+ <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality - Gdansk, NYU Student Macro Lunch (x2), 9th Luxembourg Household Finance and Consumption Workshop, 4th Nova PhD Final Countdown, Banco de Portugal, LBS Transatlantic Doctoral Conference 2025, Young Economists’ Seminar at the 31st HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference - Vilnius, 18th PEJ Meeting+, Vigo Workshop on Dynamic Macroeconomics+, AREUEA International Conference 2025 Barcelona+ <i>(+ scheduled)</i></small>
 
 **Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://www2.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/209/melissa-ferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)
 
@@ -48,6 +48,9 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt).
 
 <a id="discussions"></a>
 ## Discussions at conferences and seminars
+
+**Exclusionary Government Rhetoric and Migration Intentions** by [T. Adrjan and J. Gromadzki](https://www.purnoortak.com)<br>
+_7th Baltic Economic Conference, 27 June 2025_ [**(slides)**](/files/Gromadzki_2025_Discussion_LTM_v1.1_27.06.2025.pdf)
 
 **Property Rights and Financial Access** by [P. Tak](https://www.purnoortak.com)<br>
 _LBS TADC, 6 June 2025_ [**(slides)**](/files/Tak_2025_Discussion_LTM_v1.2_10.04.2025.pdf)

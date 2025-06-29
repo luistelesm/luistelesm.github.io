@@ -6,7 +6,6 @@ author_profile: true     # bring back sidebar photo/bio
 classes: "wide"   # adds a page-specific class
 ---
 
-# Luís Teles Morais
 
 Welcome! I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt).
 

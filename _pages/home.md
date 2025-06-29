@@ -49,7 +49,7 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt).
 <a id="discussions"></a>
 ## Discussions at conferences and seminars
 
-**Exclusionary Government Rhetoric and Migration Intentions** by [T. Adrjan](https://sites.google.com/site/paweladrjaneconomics/) and [J. Gromadzki](https://www.jgromadzki.com)<br>
+**Exclusionary Government Rhetoric and Migration Intentions** by [P. Adrjan](https://sites.google.com/site/paweladrjaneconomics/) and [J. Gromadzki](https://www.jgromadzki.com)<br>
 _7th Baltic Economic Conference, 27 June 2025_ [**(slides)**](/files/Gromadzki_2025_Discussion_LTM_v1.1_27.06.2025.pdf)
 
 **Property Rights and Financial Access** by [P. Tak](https://www.purnoortak.com)<br>

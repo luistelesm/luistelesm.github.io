@@ -18,6 +18,20 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt).
 <a id="research"></a>
 ## Research
 
+### Job Market Paper
+
+**Mortgage structure, saving rates and the wealth distribution**
+
+ <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality - Gdansk, NYU Student Macro Lunch, 9th Luxembourg Household Finance and Consumption Workshop, 4th Nova PhD Final Countdown, Banco de Portugal, LBS Transatlantic Doctoral Conference 2025, Young Economists’ Seminar at the 31st HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th PEJ Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, 8th Doctoral Workshop on Quantitative Dynamic Economics+, 4th Naples PhD and Post-Doctoral Workshop+<i>(+ scheduled)</i></small>
+
+ <details>
+
+<summary><strong>Abstract</strong></summary>
+
+ In this paper, I show that fixed amortization schedules have powerful and heterogeneous effects on household consumption, saving and wealth. I study an otherwise standard life-cycle model with realistic mortgages, showing that homeowners rationally respond to mandatory repayments by cutting consumption and increasing precautionary saving in liquid assets. Consistent with this mechanism, I document in Euro area data that younger, poorer homeowners have much higher saving rates than their non-mortgage peers, and allocate a large share of sav- ing to mortgage repayment. The exception is the Netherlands, where interest-only mortgages are common. This complements recent quasi-experimental evidence showing large effects of amortization requirements on saving. A quantitative version of the model reproduces these facts and shows that mandatory amortization increases both home equity and financial wealth accumulation, particularly up to age 40. Wealth-to-income ratios increase by close to a quarter for lower-income homeowners at age 40, while the impact for the highest-income households is minimal. These effects build up over time and have substantial implications for aggregate consumption and wealth: mandatory amortization dampens total wealth inequality, but increases consumption volatility and financial wealth inequality.<br><br>
+ 
+</details>
+
 ### Working paper
 
 **[The costs of building walls: immigration and the fiscal burden of aging in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)** <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)<br> (_new version coming soon_) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922) | 
@@ -34,16 +48,15 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt).
 
 ### Work in progress
 
-**Mortgage structure, saving rates and the wealth distribution** (Job Market Paper)
-
- <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality - Gdansk, NYU Student Macro Lunch (x2), 9th Luxembourg Household Finance and Consumption Workshop, 4th Nova PhD Final Countdown, Banco de Portugal, LBS Transatlantic Doctoral Conference 2025, Young Economists’ Seminar at the 31st HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference - Vilnius, 18th PEJ Meeting+, Vigo Workshop on Dynamic Macroeconomics+, AREUEA International Conference 2025 Barcelona+ <i>(+ scheduled)</i></small>
-
 **Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://www2.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/209/melissa-ferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)
 
  <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting+\* <i>(\*co-author, + scheduled)</i></small>
 
 
 **The cost of homeownership** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)
+
+
+ <small><strong>Presented at:</strong> 18th PEJ Meeting\*, 10th Luxembourg Household Finance and Consumption Workshop+ <i>(\*co-author, + scheduled)</i></small>
 
 
 <a id="discussions"></a>

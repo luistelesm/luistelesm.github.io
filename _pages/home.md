@@ -62,6 +62,9 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt).
 <a id="discussions"></a>
 ## Discussions at conferences and seminars
 
+**Google Search and the Exercise of Strategic Default on Mortgages** by [G. Marcato](https://www.henley.ac.uk/people/gianluca-marcato), [S. Watanabe](https://researcher.apu.ac.jp/apuhp/KgApp?resId=S001731&Language=2) and [B. Zhu](https://www.professoren.tum.de/en/zhu-bing)<br>
+_AREUEA International Conference Barcelona, 16 July 2025_ [**(slides)**](/files/Marcato_etal_2025_Discussion_LTM_v1.0_16.07.2025.html)
+
 **Exclusionary Government Rhetoric and Migration Intentions** by [P. Adrjan](https://sites.google.com/site/paweladrjaneconomics/) and [J. Gromadzki](https://www.jgromadzki.com)<br>
 _7th Baltic Economic Conference, 27 June 2025_ [**(slides)**](/files/Gromadzki_2025_Discussion_LTM_v1.1_27.06.2025.pdf)
 
@@ -71,7 +74,7 @@ _LBS TADC, 6 June 2025_ [**(slides)**](/files/Tak_2025_Discussion_LTM_v1.2_10.04
 **Native Flight in Education: The Venezuelan Migration to Peru** by F. Li, D. Martinez, M. Martinez and [C. Sanchez](https://cristsanchez.github.io/research/)<br>
 _HUMANS-LACEA Network 3rd Workshop, 10 April 2025_ [**(slides)**](/files/Sanchez_2025_Discussion_LTM_v2_10.04.2025.pdf)
 
-**Mortgage borrowing caps - leverage, default and welfare** by [J. Oliveira](https://www.joaogoliveira.com) and L. Queiro<br>
+**Mortgage borrowing caps - leverage, default and welfare** by [J. Oliveira](https://www.joaogoliveira.com) and [L. Queiro](https://www.eui.eu/people?id=leonor-queiro)<br>
 _Nova SBE Workshop on Monetary Policy, Housing and Inequality, 20 December 2024_ [**(slides)**](/files/OliveiraQueiro_2024_Discussion_LTM_v1.1_20.12.2024.pdf)
 
 **Should I stay or should I go? The role of housing in understanding limited inter-regional worker mobility** by [J. Bojeryd](https://www.jesperbojeryd.se)<br>
@@ -80,7 +83,7 @@ _The Economics of Migration Junior Seminar, 26 March 2024_ [**(slides)**](/files
 **Inflation Expectations and Households Portfolio Choice** 
 by [Q. Yang](https://www.sfi.ch/en/people/qingyuan-yang) 
 <br>
-_BSE PhD Workshop on Expectations in Macroeconomics, 4 Oct 2022_ [**(slides)**](/files/Yang_2022_Discussion_LTM_v1.pdf)
+_BSE PhD Workshop on Expectations in Macroeconomics, 4 October 2022_ [**(slides)**](/files/Yang_2022_Discussion_LTM_v1.pdf)
 
 **Household Finance and Life-Cycle Economic Decisions under the Shadow of Cancer** 
 by [D. Karpati](https://www.danielkarpati.com) 

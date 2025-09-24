@@ -22,7 +22,7 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt).
 
 **Mortgage structure, saving rates and the wealth distribution**
 
- <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality - Gdansk, NYU Student Macro Lunch, 9th Luxembourg Household Finance and Consumption Workshop, 4th Nova PhD Final Countdown, Banco de Portugal, LBS Transatlantic Doctoral Conference 2025, Young Economists’ Seminar at the 31st HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th PEJ Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, CIRET (KOF-ETH) Workshop 2025, 4th Naples PhD and Post-Doctoral Workshop, 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets, 8th Doctoral Workshop on Quantitative Dynamic Economics+, AFA/ASSA 2026 (poster)+ <i>(+ scheduled)</i></small>
+ <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality - Gdansk, NYU Student Macro Lunch, 9th Luxembourg Household Finance and Consumption Workshop, 4th Nova PhD Final Countdown, Banco de Portugal, LBS Transatlantic Doctoral Conference 2025, Young Economists’ Seminar at the 31st HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th PEJ Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, Nova Macro/Finance PhD Job Market Workshop, CIRET (KOF-ETH) Workshop 2025, 4th Naples PhD and Post-Doctoral Workshop, 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets, 8th Doctoral Workshop on Quantitative Dynamic Economics+, AFA/ASSA 2026 (poster)+ <i>(+ scheduled)</i></small>
 
  <details>
 

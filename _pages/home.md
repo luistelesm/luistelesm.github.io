@@ -7,11 +7,11 @@ classes: "wide"   # adds a page-specific class
 ---
 
 
-Welcome! I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt).
+Welcome! I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). **I am on the 2025/26 academic job market.**
 
 During the PhD, I have been a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), at [Baruch College, CUNY](https://zicklin.baruch.cuny.edu/), and at [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) as a PhD trainee and research analyst.
 
-My research interests are between macroeconomics and finance, focusing on household finance, consumption and saving, and housing. My supervisors are [**João B. Duarte**](https://jbduarte.com) and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
+My research interests lie between macroeconomics and finance, focusing on household finance and specifically on two key themes in current policy debates: housing and migration. My supervisors are [**João B. Duarte**](https://jbduarte.com) and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
 
 Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt).
 
@@ -22,7 +22,7 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt).
 
 **Mortgage structure, saving rates and the wealth distribution**
 
- <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality - Gdansk, NYU Student Macro Lunch, 9th Luxembourg Household Finance and Consumption Workshop, 4th Nova PhD Final Countdown, Banco de Portugal, LBS Transatlantic Doctoral Conference 2025, Young Economists’ Seminar at the 31st HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th PEJ Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, 8th Doctoral Workshop on Quantitative Dynamic Economics+, 4th Naples PhD and Post-Doctoral Workshop+<i>(+ scheduled)</i></small>
+ <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality - Gdansk, NYU Student Macro Lunch, 9th Luxembourg Household Finance and Consumption Workshop, 4th Nova PhD Final Countdown, Banco de Portugal, LBS Transatlantic Doctoral Conference 2025, Young Economists’ Seminar at the 31st HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th PEJ Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, CIRET (KOF-ETH) Workshop 2025, 4th Naples PhD and Post-Doctoral Workshop, 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets, 8th Doctoral Workshop on Quantitative Dynamic Economics+, AFA/ASSA 2026 (poster)+ <i>(+ scheduled)</i></small>
 
  <details>
 
@@ -50,17 +50,19 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt).
 
 **Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://www2.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/209/melissa-ferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)
 
- <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting+\* <i>(\*co-author, + scheduled)</i></small>
+ <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting\* <i>(\*co-author, + scheduled)</i></small>
 
 
 **The cost of homeownership** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)
 
-
- <small><strong>Presented at:</strong> 18th PEJ Meeting\*, 10th Luxembourg Household Finance and Consumption Workshop+ <i>(\*co-author, + scheduled)</i></small>
+ <small><strong>Presented at:</strong> 18th PEJ Meeting\*, 10th Luxembourg Household Finance and Consumption Workshop\*+ <i>(\*co-author, + scheduled)</i></small>
 
 
 <a id="discussions"></a>
 ## Discussions at conferences and seminars
+
+**Intergenerational Mobility in the Presence of Informal Labor Markets** by [P. Cesana](https://www.qmul.ac.uk/sef/staff/paulacesana.html) <br>
+_4th Naples PhD and Post-Doctoral Workshop, 23 September 2025_ [**(slides)**](/files/Cesana_2025_Discussion_LTM_v1.0_23.09.2025.html)
 
 **Google Search and the Exercise of Strategic Default on Mortgages** by [G. Marcato](https://www.henley.ac.uk/people/gianluca-marcato), [S. Watanabe](https://researcher.apu.ac.jp/apuhp/KgApp?resId=S001731&Language=2) and [B. Zhu](https://www.professoren.tum.de/en/zhu-bing)<br>
 _AREUEA International Conference Barcelona, 16 July 2025_ [**(slides)**](/files/Marcato_etal_2025_Discussion_LTM_v1.0_16.07.2025.html)

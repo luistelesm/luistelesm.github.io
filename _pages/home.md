@@ -49,6 +49,8 @@ We argue that current metrics for the cost of homeownership inadequately represe
 
 **Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://www2.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/209/melissa-ferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)
 
+<details>
+
 <summary><strong>Abstract</strong></summary>
 How does monetary policy affect household portfolio composition? Resorting to highly granular data on the balance sheets of Norwegian households, we analyze how their wealth portfolios change in response to well-defined monetary policy shocks. We document three empirical facts on the aggregate response of households after a 1 percentage point increase in the policy rate: i) the total value of households' portfolios decreases by 4.1% two years after the shock; ii) monetary policy tightening decreases the risk exposure of portfolios, in particular the value of stocks, bonds, and mutual funds; iii) stock market participation is unaffected by monetary policy, but those who already own stocks increase their holdings. We find pronounced heterogeneity in the responses, noting these additional facts: iv) the drop in risky asset values is mostly driven by the wealthiest 10 percent, while a short-term positive response of safe assets comes from middle-class households' portfolios; v) middle‑aged homeowners benefit from a short-term house price appreciation, but for younger households, the effect becomes negative over time, indicating that tighter policy delays entry into home ownership.<br><br>
  

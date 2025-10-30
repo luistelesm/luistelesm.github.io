@@ -13,8 +13,7 @@ My research interests lie between macroeconomics and finance, focusing on housin
 
 During the PhD, I have been a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), at [Baruch College, CUNY](https://zicklin.baruch.cuny.edu/), and at [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
 
-References: [**João B. Duarte**](https://jbduarte.com), [**Miguel Ferreira**](https://www.miguelferreirafinance.com), [**Daniel L. Greenwald**](https://www.dlgreenwald.com), and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco) 
-
+References: [**João B. Duarte**](https://jbduarte.com), [**Miguel Ferreira**](https://www.miguelferreirafinance.com), [**Daniel L. Greenwald**](https://www.dlgreenwald.com), and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)
 
 Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or check out my CV [here](/files/CV_Luis_Teles_Morais.pdf). 
 

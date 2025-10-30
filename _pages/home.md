@@ -9,18 +9,22 @@ classes: "wide"   # adds a page-specific class
 
 Welcome! I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). **I am on the 2025/26 academic job market.**
 
-During the PhD, I have been a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), at [Baruch College, CUNY](https://zicklin.baruch.cuny.edu/), and at [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) as a PhD trainee and research analyst.
+My research interests lie between macroeconomics and finance, focusing on housing, household finance, consumption and saving. 
 
-My research interests lie between macroeconomics and finance, focusing on household finance and specifically on two key themes in current policy debates: housing and migration. My supervisors are [**João B. Duarte**](https://jbduarte.com) and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco).
+During the PhD, I have been a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), at [Baruch College, CUNY](https://zicklin.baruch.cuny.edu/), and at [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
 
-Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt), and click [here](/files/CV_Luis_Teles_Morais.pdf) for my full CV (PDF).
+References: [**João B. Duarte**](https://jbduarte.com), [**Miguel Ferreira**](https://www.miguelferreirafinance.com), [**Daniel L. Greenwald**](https://www.dlgreenwald.com), and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco) 
+
+
+Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or check out my CV [here](/files/CV_Luis_Teles_Morais.pdf). 
+
 
 <a id="research"></a>
 ## Research
 
 ### Job Market Paper
 
-**Mortgage structure, saving rates and the wealth distribution**
+**Mortgage structure, saving rates, and the wealth distribution**
 
  <details>
 
@@ -71,7 +75,11 @@ How does monetary policy affect household portfolio composition? Resorting to hi
 </details>
 
 <small><strong>Presented at:</strong> Nova SBE, Stockholm University\*, 15th PEJ Meeting, 18th International Conference on Pension, Insurance and Saving, the 60th Public Choice Society meetings\*, the Lisbon Migration Economics Workshop\*, The Economics of Migration Junior Seminar, the 2nd NBER Conference on Fertility and Declining Population Growth, 3rd LACEA HUMANS Workshop CDMX, BSE Summer Forum\* <i>(* by co-author)</i></small>
- 
+
+### Work in progress
+
+**[Access to homeownership and the transmission of monetary and fiscal policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)
+
 
 <a id="discussions"></a>
 ## Discussions at conferences and seminars

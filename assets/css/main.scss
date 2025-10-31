@@ -57,7 +57,7 @@ search: false
 }
 
 html {
-  font-size: 12px; // change to whatever
+  font-size: 11px; // change to whatever
 
   @include breakpoint($medium) {
     font-size: 14px; // change to whatever

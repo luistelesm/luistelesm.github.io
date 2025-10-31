@@ -9,11 +9,11 @@ classes: "wide"   # adds a page-specific class
 
 Welcome! I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). **I am on the 2025/26 academic job market.**
 
-My research interests lie between macroeconomics and finance, focusing on housing, household finance, consumption and saving. 
+My research interests lie in **macroeconomics and finance**, focusing on housing, household finance, consumption and saving. 
 
 During the PhD, I have been a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), [Baruch College](https://zicklin.baruch.cuny.edu/), and [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
 
-References: <br> [**João B. Duarte**](https://jbduarte.com), [**Miguel Ferreira**](https://www.miguelferreirafinance.com), [**Daniel L. Greenwald**](https://www.dlgreenwald.com), and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)
+**References:** <br> [**João B. Duarte**](https://jbduarte.com), [**Miguel Ferreira**](https://www.miguelferreirafinance.com), [**Daniel L. Greenwald**](https://www.dlgreenwald.com), and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)
 
 Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or check out my CV [here](/files/CV_Luis_Teles_Morais.pdf). 
 

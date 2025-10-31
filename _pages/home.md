@@ -11,9 +11,9 @@ Welcome! I am a **PhD candidate in Economics** at [Nova School of Business and E
 
 My research interests lie between macroeconomics and finance, focusing on housing, household finance, consumption and saving. 
 
-During the PhD, I have been a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), at [Baruch College, CUNY](https://zicklin.baruch.cuny.edu/), and at [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
+During the PhD, I have been a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), [Baruch College](https://zicklin.baruch.cuny.edu/), and [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
 
-References: [**João B. Duarte**](https://jbduarte.com), [**Miguel Ferreira**](https://www.miguelferreirafinance.com), [**Daniel L. Greenwald**](https://www.dlgreenwald.com), and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)
+References: <br> [**João B. Duarte**](https://jbduarte.com), [**Miguel Ferreira**](https://www.miguelferreirafinance.com), [**Daniel L. Greenwald**](https://www.dlgreenwald.com), and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)
 
 Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or check out my CV [here](/files/CV_Luis_Teles_Morais.pdf). 
 
@@ -33,7 +33,7 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or chec
  
 </details>
 
- <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality - Gdansk, NYU Student Macro Lunch, 9th Luxembourg Household Finance and Consumption Workshop, 4th Nova PhD Final Countdown, Banco de Portugal, LBS Transatlantic Doctoral Conference 2025, Young Economists’ Seminar at the 31st HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th PEJ Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, Nova Macro/Finance PhD Job Market Workshop, CIRET (KOF-ETH) Workshop 2025, 4th Naples PhD and Post-Doctoral Workshop, 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets, 8th Doctoral Workshop on Quantitative Dynamic Economics+, AFA/ASSA 2026 (poster)+ <i>(+ scheduled)</i></small>
+ <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality, NYU Student Macro Lunch, 9th Luxembourg Household Finance and Consumption Workshop, 4th Nova PhD Final Countdown, Banco de Portugal, LBS Transatlantic Doctoral Conference 2025, Young Economists’ Seminar at the 31st HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th PEJ Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, Nova Macro/Finance PhD Job Market Workshop, CIRET (KOF-ETH) Workshop 2025, 4th Naples PhD and Post-Doctoral Workshop, 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets, 8th Doctoral Workshop on Quantitative Dynamic Economics+, AFA/ASSA 2026 (poster)+ <i>(+ scheduled)</i></small>
 
 
 ### Working papers
@@ -83,7 +83,7 @@ How does monetary policy affect household portfolio composition? Resorting to hi
 <a id="discussions"></a>
 ## Discussions at conferences and seminars
 
-**Intergenerational Mobility in the Presence of Informal Labor Markets** by [P. Cesana](https://www.qmul.ac.uk/sef/staff/paulacesana.html) <br>
+**Intergenerational Mobility in the Presence of Informal Labor Markets** by [P. Cesana](https://paulacesana.github.io/) <br>
 _4th Naples PhD and Post-Doctoral Workshop, 23 September 2025_ [**(slides)**](/files/Cesana_2025_Discussion_LTM_v1.0_23.09.2025.html)
 
 **Google Search and the Exercise of Strategic Default on Mortgages** by [G. Marcato](https://www.henley.ac.uk/people/gianluca-marcato), [S. Watanabe](https://researcher.apu.ac.jp/apuhp/KgApp?resId=S001731&Language=2) and [B. Zhu](https://www.professoren.tum.de/en/zhu-bing)<br>

@@ -82,10 +82,7 @@ How does monetary policy affect household portfolio composition? Resorting to hi
 
 ### Other publications
 
-**[Developing distributional national accounts: first attempt to estimate a joint distribution for income and wealth for the euro area](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3142~33987afbdc.en.pdf?85e8c0f8721992582e68045cbb1d7538)**<br> with [Ilja Kristian Kavonius](https://www.ecb.europa.eu/pub/research/authors/profiles/ilja-kristian-kavonius.en.html) and [Nina Blatnik](https://www.ecb.europa.eu/pub/research/authors/profiles/nina-blatnik.en.html)<br>  [(ECB Working Paper)](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3142~33987afbdc.en.pdf?85e8c0f8721992582e68045cbb1d7538) 
-
-**[Public Finances: an Intergenerational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)** <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)<br> [(Final Report)](https://gulbenkian.pt/de-hoje-para-amanha/wp-content/uploads/sites/46/2021/12/06_JI_PublicFinances_EN_NC_web.pdf) | [(Interactive Version)](https://gulbenkian.pt/de-hoje-para-amanha/en/public-finances/)
-
+**[Developing distributional national accounts: first attempt to estimate a joint distribution for income and wealth for the euro area](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3142~33987afbdc.en.pdf?85e8c0f8721992582e68045cbb1d7538)**<br> with [Ilja Kristian Kavonius](https://www.ecb.europa.eu/pub/research/authors/profiles/ilja-kristian-kavonius.en.html) and [Nina Blatnik](https://www.ecb.europa.eu/pub/research/authors/profiles/nina-blatnik.en.html)<br>  [(ECB Working Paper)](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3142~33987afbdc.en.pdf?85e8c0f8721992582e68045cbb1d7538) <br>
 
 
 <a id="discussions"></a>

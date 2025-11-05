@@ -62,7 +62,7 @@ How does monetary policy affect household portfolio composition? Resorting to hi
  <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting\* <i>(\*co-author, + scheduled)</i></small>
 
 
-**[The costs of building walls: immigration and the fiscal burden of aging in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)** <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)<br> (_new version coming soon_) [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922) | 
+**[The costs of building walls: immigration and the fiscal burden of aging in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)** <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)<br> [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922) | 
 [(CGO)](https://www.thecgo.org/wp-content/uploads/2024/02/CGO-2024-Immigration-WorkingPaper-Feb-CostsofBuildingWalls.pdf)
 
  
@@ -78,6 +78,20 @@ How does monetary policy affect household portfolio composition? Resorting to hi
 ### Work in progress
 
 **[Access to homeownership and the transmission of monetary and fiscal policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)
+
+### Other publications
+
+**[Developing distributional national accounts: first attempt to estimate a joint distribution for income and wealth for the euro area](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3142~33987afbdc.en.pdf?85e8c0f8721992582e68045cbb1d7538)**<br> with [Ilja Kristian Kavonius](https://www.ecb.europa.eu/pub/research/authors/profiles/ilja-kristian-kavonius.en.html) and [Nina Blatnik](https://www.ecb.europa.eu/pub/research/authors/profiles/nina-blatnik.en.html)<br>  [(ECB Working Paper)](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3142~33987afbdc.en.pdf?85e8c0f8721992582e68045cbb1d7538) 
+
+<details>
+
+<summary><strong>Abstract</strong></summary>
+ In recent years, projects have sought to embed distributional aspects within national accounts, with household distributional information set to feature in the next System of National Accounts. There is growing emphasis on capturing all material dimensions of welfare—income, consumption, and wealth—at both macro and micro levels within a unified framework. This paper develops distributional multidimensional accounts for income and wealth, building on the Distributional Wealth Accounts (DWA), an experimental quarterly dataset first released in January 2024 by the European System of Central Banks. The DWA integrates the Household Finance and Consumption Survey (HFCS) with macro statistics on household financial and non-financial balance sheets. We use the HFCS’s micro population to estimate consistent joint income transactions for these households, enabling analysis of the joint distribution of income and wealth, including wealth by income decile. This is the first multi-country approach to cover complete income accounts to disposable income and full balance sheets on a shared household sample.<br><br>
+ 
+</details>
+
+**[Public Finances: an Intergenerational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)** <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)<br> [(Final Report)](https://gulbenkian.pt/de-hoje-para-amanha/wp-content/uploads/sites/46/2021/12/06_JI_PublicFinances_EN_NC_web.pdf) |  (Interactive Version) (https://gulbenkian.pt/de-hoje-para-amanha/en/public-finances/)
+
 
 
 <a id="discussions"></a>

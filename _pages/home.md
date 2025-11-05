@@ -27,7 +27,7 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or chec
 
  <details>
 
-<summary><strong>Abstract</strong></summary>
+<summary>Abstract</summary>
 
  In this paper, I show that fixed amortization schedules have powerful and heterogeneous effects on household consumption, saving and wealth. I study an otherwise standard life-cycle model with realistic mortgages, showing that homeowners rationally respond to mandatory repayments by cutting consumption and increasing precautionary saving in liquid assets. Consistent with this mechanism, I document in Euro area data that younger, poorer homeowners have much higher saving rates than their non-mortgage peers, and allocate a large share of sav- ing to mortgage repayment. The exception is the Netherlands, where interest-only mortgages are common. This complements recent quasi-experimental evidence showing large effects of amortization requirements on saving. A quantitative version of the model reproduces these facts and shows that mandatory amortization increases both home equity and financial wealth accumulation, particularly up to age 40. Wealth-to-income ratios increase by close to a quarter for lower-income homeowners at age 40, while the impact for the highest-income households is minimal. These effects build up over time and have substantial implications for aggregate consumption and wealth: mandatory amortization dampens total wealth inequality, but increases consumption volatility and financial wealth inequality.<br><br>
  
@@ -42,7 +42,7 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or chec
 
 <details>
 
-<summary><strong>Abstract</strong></summary>
+<summary>Abstract</summary>
 Conventional housing affordability metrics contradict the widespread perception of a secular rise in the cost of homeownership. The main index used by policymakers — based on mortgage-payment-to-income ratios — suggests affordability today is similar to 2000 and better than in the 1980s. Yet homeownership has declined among younger generations, who report feeling ‘priced out’. We develop a microfounded measure of homeownership cost that resolves this disconnect. Within a standard income fluctuations model with explicit housing finance, we compute the welfare cost of becoming a homeowner as the consumption-equivalent loss relative to free housing, isolating the cost of ownership from shifts in rent-price ratios. Unlike conventional metrics, this captures the full intertemporal burden: saving for a downpayment, purchasing the house, and servicing a mortgage. Our measure shows that median first-time buyers in the US faced a 30% increase in costs since 2000, rising to 60% for low-earners, while the top income quintile saw no increase — consistent with conventional metrics, which reflect the experience of wealthier households. Tighter macroprudential policies contributed to the increase by raising downpayment requirements. The measure is data-light and theoretically sound, providing a practical tool to assess housing affordability over the income distribution and across time and countries.<br><br>
  
 </details>
@@ -54,7 +54,7 @@ Conventional housing affordability metrics contradict the widespread perception 
 
 <details>
 
-<summary><strong>Abstract</strong></summary>
+<summary>Abstract</summary>
 How does monetary policy affect household portfolio composition? Resorting to highly granular data on the balance sheets of Norwegian households, we analyze how their wealth portfolios change in response to well-defined monetary policy shocks. We document three empirical facts on the aggregate response of households after a 1 percentage point increase in the policy rate: i) the total value of households' portfolios decreases by 4.1% two years after the shock; ii) monetary policy tightening decreases the risk exposure of portfolios, in particular the value of stocks, bonds, and mutual funds; iii) stock market participation is unaffected by monetary policy, but those who already own stocks increase their holdings. We find pronounced heterogeneity in the responses, noting these additional facts: iv) the drop in risky asset values is mostly driven by the wealthiest 10 percent, while a short-term positive response of safe assets comes from middle-class households' portfolios; v) middle‑aged homeowners benefit from a short-term house price appreciation, but for younger households, the effect becomes negative over time, indicating that tighter policy delays entry into home ownership.<br><br>
  
 </details>
@@ -68,7 +68,7 @@ How does monetary policy affect household portfolio composition? Resorting to hi
  
 <details>
 
-<summary><strong>Abstract</strong></summary>
+<summary>Abstract</summary>
  In low-fertility societies with working-age immigration, reducing inflows disproportionately raises dependency ratios as native populations shrink. This creates a convex policy frontier: restricting migration raises fiscal burdens at an increasing rate. We quantify this mechanism using a demographic model and novel estimates of immigrants’ fiscal contributions in the Euro area. Eliminating immigration raises the fiscal burden of aging by 16%, despite immigrants' low skills, while doubling inflows reduces it by 9%. Differences across countries are substantial, reflecting their positions on the frontier, but also heterogeneity in immigrants' ages and tax-benefit policies. Increasing natives' fertility does not provide comparable relief.<br><br>
  
 </details>
@@ -79,18 +79,12 @@ How does monetary policy affect household portfolio composition? Resorting to hi
 
 **[Access to homeownership and the transmission of monetary and fiscal policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)
 
+
 ### Other publications
 
 **[Developing distributional national accounts: first attempt to estimate a joint distribution for income and wealth for the euro area](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3142~33987afbdc.en.pdf?85e8c0f8721992582e68045cbb1d7538)**<br> with [Ilja Kristian Kavonius](https://www.ecb.europa.eu/pub/research/authors/profiles/ilja-kristian-kavonius.en.html) and [Nina Blatnik](https://www.ecb.europa.eu/pub/research/authors/profiles/nina-blatnik.en.html)<br>  [(ECB Working Paper)](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3142~33987afbdc.en.pdf?85e8c0f8721992582e68045cbb1d7538) 
 
-<details>
-
-<summary><strong>Abstract</strong></summary>
- In recent years, projects have sought to embed distributional aspects within national accounts, with household distributional information set to feature in the next System of National Accounts. There is growing emphasis on capturing all material dimensions of welfare—income, consumption, and wealth—at both macro and micro levels within a unified framework. This paper develops distributional multidimensional accounts for income and wealth, building on the Distributional Wealth Accounts (DWA), an experimental quarterly dataset first released in January 2024 by the European System of Central Banks. The DWA integrates the Household Finance and Consumption Survey (HFCS) with macro statistics on household financial and non-financial balance sheets. We use the HFCS’s micro population to estimate consistent joint income transactions for these households, enabling analysis of the joint distribution of income and wealth, including wealth by income decile. This is the first multi-country approach to cover complete income accounts to disposable income and full balance sheets on a shared household sample.<br><br>
- 
-</details>
-
-**[Public Finances: an Intergenerational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)** <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)<br> [(Final Report)](https://gulbenkian.pt/de-hoje-para-amanha/wp-content/uploads/sites/46/2021/12/06_JI_PublicFinances_EN_NC_web.pdf) |  (Interactive Version) (https://gulbenkian.pt/de-hoje-para-amanha/en/public-finances/)
+**[Public Finances: an Intergenerational Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)** <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)<br> [(Final Report)](https://gulbenkian.pt/de-hoje-para-amanha/wp-content/uploads/sites/46/2021/12/06_JI_PublicFinances_EN_NC_web.pdf) | [(Interactive Version)](https://gulbenkian.pt/de-hoje-para-amanha/en/public-finances/)
 
 
 

@@ -83,6 +83,7 @@ How does monetary policy affect household portfolio composition? Resorting to hi
 ### Other publications
 
 **[Developing distributional national accounts: first attempt to estimate a joint distribution for income and wealth for the euro area](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3142~33987afbdc.en.pdf?85e8c0f8721992582e68045cbb1d7538)**<br> with [Nina Blatnik](https://www.ecb.europa.eu/pub/research/authors/profiles/nina-blatnik.en.html) and [Ilja Kristian Kavonius](https://www.ecb.europa.eu/pub/research/authors/profiles/ilja-kristian-kavonius.en.html) <br>  [(ECB Working Paper)](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3142~33987afbdc.en.pdf?85e8c0f8721992582e68045cbb1d7538) <br>
+Revision requested, _Review of Income and Wealth_
 
 
 <a id="discussions"></a>

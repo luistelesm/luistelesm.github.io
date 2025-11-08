@@ -38,7 +38,7 @@ Mortgage repayments account for 25% of household saving flows in the Euro area. 
 
 ### Working papers
 
-**The cost of homeownership** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)<br>[(paper)](/home/)
+**The cost of homeownership** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)<br>[(paper)](/files/HAI_31102025.pdf)
 
 <details>
 

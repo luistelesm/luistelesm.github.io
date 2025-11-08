@@ -23,6 +23,25 @@ search: false
     flex: 0 0 300px !important;
     max-width: 300px !important;
   }
+
+
+  .sidebar .author__avatar img {
+    display: none;
+  }
+
+  .sidebar .author__avatar::before {
+    content: "";
+    display: block;
+    width: 100%;
+    padding-top: 100%;
+    border-radius: 12px;
+    background: url("/assets/images/ltm-photo.jpg") center/cover no-repeat;
+  }
+
+  html {
+    font-size: 12px;
+  }
+
 }
 
 /* 2 ▸ Enlarge the circular headshot in the sidebar */
@@ -85,10 +104,10 @@ html {
 
 
 .page__content details {
-  margin-bottom: 2rem;
+  margin-bottom: 0.9rem;
 }
 
 .page__content h3 {
   font-weight: normal;
-  margin-bottom: 1.75rem;
+  margin-bottom: 1.25rem;
 }

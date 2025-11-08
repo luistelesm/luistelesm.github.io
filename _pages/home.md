@@ -33,6 +33,7 @@ Mortgage repayments account for 25% of household saving flows in the Euro area. 
  
 </details>
 
+<br>
  <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality, NYU Student Macro Lunch, 9th Luxembourg Household Finance and Consumption Workshop, 4th Nova PhD Final Countdown, Banco de Portugal, LBS Transatlantic Doctoral Conference 2025, Young Economists’ Seminar at the 31st HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th PEJ Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, Nova Macro/Finance PhD Job Market Workshop, CIRET (KOF-ETH) Workshop 2025, 4th Naples PhD and Post-Doctoral Workshop, 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets, 8th Doctoral Workshop on Quantitative Dynamic Economics - Konstanz, AFA/ASSA 2026 (poster)+ <i>(+ scheduled)</i></small>
 
 
@@ -46,7 +47,7 @@ Mortgage repayments account for 25% of household saving flows in the Euro area. 
 Conventional housing affordability metrics contradict the widespread perception of a secular rise in the cost of homeownership. The main index used by policymakers — based on mortgage-payment-to-income ratios — suggests affordability today is similar to 2000 and better than in the 1980s. Yet homeownership has declined among younger generations, who report feeling ‘priced out’. We develop a microfounded measure of homeownership cost that resolves this disconnect. Within a standard income fluctuations model with explicit housing finance, we compute the welfare cost of becoming a homeowner as the consumption-equivalent loss relative to free housing, isolating the cost of ownership from shifts in rent-price ratios. Unlike conventional metrics, this captures the full intertemporal burden: saving for a downpayment, purchasing the house, and servicing a mortgage. Our measure shows that median first-time buyers in the US faced a 30% increase in costs since 2000, rising to 60% for low-earners, while the top income quintile saw no increase — consistent with conventional metrics, which reflect the experience of wealthier households. Tighter macroprudential policies contributed to the increase by raising downpayment requirements. The measure is data-light and theoretically sound, providing a practical tool to assess housing affordability over the income distribution and across time and countries.<br><br>
  
 </details>
-
+<br>
  <small><strong>Presented at:</strong> 18th PEJ Meeting,\* 10th Luxembourg Household Finance and Consumption Workshop,\* Lisbon Mini Workshop on Housing Affordability,+ <i>(\*co-author, + scheduled)</i></small>
 
 
@@ -58,7 +59,7 @@ Conventional housing affordability metrics contradict the widespread perception 
 How does monetary policy affect household portfolio composition? Resorting to highly granular data on the balance sheets of Norwegian households, we analyze how their wealth portfolios change in response to well-defined monetary policy shocks. We document three empirical facts on the aggregate response of households after a 1 percentage point increase in the policy rate: i) the total value of households' portfolios decreases by 4.1% two years after the shock; ii) monetary policy tightening decreases the risk exposure of portfolios, in particular the value of stocks, bonds, and mutual funds; iii) stock market participation is unaffected by monetary policy, but those who already own stocks increase their holdings. We find pronounced heterogeneity in the responses, noting these additional facts: iv) the drop in risky asset values is mostly driven by the wealthiest 10 percent, while a short-term positive response of safe assets comes from middle-class households' portfolios; v) middle‑aged homeowners benefit from a short-term house price appreciation, but for younger households, the effect becomes negative over time, indicating that tighter policy delays entry into home ownership.<br><br>
  
 </details>
-
+<br>
  <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting\* <i>(\*co-author, + scheduled)</i></small>
 
 
@@ -72,7 +73,7 @@ How does monetary policy affect household portfolio composition? Resorting to hi
 In low-fertility societies with working-age immigration, reducing inflows disproportionately raises dependency ratios. This creates a convex policy frontier: restricting immigration raises fiscal burdens at an increasing rate. We quantify this mechanism using a demographic model and novel estimates of immigrants’ fiscal contributions in the euro area. Eliminating immigration raises the tax increase required to finance aging-related spending by 16%, while doubling inflows reduces it by only 9%. Differences across countries are substantial, reflecting their positions on the frontier as well as heterogeneity in immigrants’ ages and national tax-benefit systems. Immigration improves fiscal balances even when migrants are low-skilled, as long as their lifetime contributions exceed those of newborn natives. Higher native fertility offers no comparable relief.<br><br>
  
 </details>
-
+<br>
 <small><strong>Presented at:</strong> Nova SBE, Stockholm University\*, 15th PEJ Meeting, 18th International Conference on Pension, Insurance and Saving, the 60th Public Choice Society meetings\*, the Lisbon Migration Economics Workshop\*, The Economics of Migration Junior Seminar, the 2nd NBER Conference on Fertility and Declining Population Growth, 3rd LACEA HUMANS Workshop CDMX, BSE Summer Forum\* <i>(* by co-author)</i></small>
 
 ### Work in progress

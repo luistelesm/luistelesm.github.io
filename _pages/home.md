@@ -61,7 +61,7 @@ How does monetary policy affect household portfolio composition? Resorting to hi
  <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting\* <i>(\*co-author, + scheduled)</i></small>
 
 
-**The costs of building walls: immigration and the fiscal burden of aging in Europe** <br> with [Tiago Bernardino](https://www.tiagobernardino.com) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)<br> [(paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)
+**The costs of building walls: immigration and the fiscal burden of aging in Europe** <br> with [Tiago Bernardino](https://www.tiagobernardino.com) and [Francesco Franco](https://economicsforpolicy.novasbe.pt/people/francesco-franco/)<br> [(paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)
 
  
 <details>

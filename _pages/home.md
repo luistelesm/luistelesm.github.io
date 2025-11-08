@@ -69,7 +69,7 @@ How does monetary policy affect household portfolio composition? Resorting to hi
 <details>
 
 <summary>Abstract</summary>
- In low-fertility societies with working-age immigration, reducing inflows disproportionately raises dependency ratios as native populations shrink. This creates a convex policy frontier: restricting migration raises fiscal burdens at an increasing rate. We quantify this mechanism using a demographic model and novel estimates of immigrants’ fiscal contributions in the Euro area. Eliminating immigration raises the fiscal burden of aging by 16%, despite immigrants' low skills, while doubling inflows reduces it by 9%. Differences across countries are substantial, reflecting their positions on the frontier, but also heterogeneity in immigrants' ages and tax-benefit policies. Increasing natives' fertility does not provide comparable relief.<br><br>
+In low-fertility societies with working-age immigration, reducing inflows disproportionately raises dependency ratios. This creates a convex policy frontier: restricting immigration raises fiscal burdens at an increasing rate. We quantify this mechanism using a demographic model and novel estimates of immigrants’ fiscal contributions in the euro area. Eliminating immigration raises the tax increase required to finance aging-related spending by 16%, while doubling inflows reduces it by only 9%. Differences across countries are substantial, reflecting their positions on the frontier as well as heterogeneity in immigrants’ ages and national tax-benefit systems. Immigration improves fiscal balances even when migrants are low-skilled, as long as their lifetime contributions exceed those of newborn natives. Higher native fertility offers no comparable relief.<br><br>
  
 </details>
 

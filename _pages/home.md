@@ -23,7 +23,7 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or chec
 
 ### Job Market Paper
 
-**Mortgage structure, saving rates, and the wealth distribution**
+**Mortgage structure, saving rates, and the wealth distribution**<br>[(paper)](/)
 
  <details>
 
@@ -39,7 +39,7 @@ Mortgage repayments account for 25% of household saving flows in the Euro area. 
 
 ### Working papers
 
-**The cost of homeownership** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)
+**The cost of homeownership** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)<br>[(paper)](/home/)
 
 <details>
 
@@ -52,7 +52,6 @@ Conventional housing affordability metrics contradict the widespread perception 
 
 
 **Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://www2.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/209/melissa-ferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)
-
 <details>
 
 <summary>Abstract</summary>
@@ -63,8 +62,7 @@ How does monetary policy affect household portfolio composition? Resorting to hi
  <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting\* <i>(\*co-author, + scheduled)</i></small>
 
 
-**[The costs of building walls: immigration and the fiscal burden of aging in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)** <br> with [Tiago Bernardino](https://www.su.se/english/profiles/tibe6711-1.511719) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)<br> [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922) | 
-[(CGO)](https://www.thecgo.org/wp-content/uploads/2024/02/CGO-2024-Immigration-WorkingPaper-Feb-CostsofBuildingWalls.pdf)
+**The costs of building walls: immigration and the fiscal burden of aging in Europe** <br> with [Tiago Bernardino](https://www.tiagobernardino.com) and [Francesco Franco](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)<br> [(paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)
 
  
 <details>
@@ -74,6 +72,7 @@ In low-fertility societies with working-age immigration, reducing inflows dispro
  
 </details>
 <br>
+
 <small><strong>Presented at:</strong> Nova SBE, Stockholm University\*, 15th PEJ Meeting, 18th International Conference on Pension, Insurance and Saving, the 60th Public Choice Society meetings\*, the Lisbon Migration Economics Workshop\*, The Economics of Migration Junior Seminar, the 2nd NBER Conference on Fertility and Declining Population Growth, 3rd LACEA HUMANS Workshop CDMX, BSE Summer Forum\* <i>(* by co-author)</i></small>
 
 ### Work in progress

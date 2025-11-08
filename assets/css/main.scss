@@ -23,7 +23,17 @@ search: false
     flex: 0 0 300px !important;
     max-width: 300px !important;
   }
+  
+}
 
+
+
+@media (max-width: 768px) {
+  .sidebar .author__avatar {
+    max-width: 220px;
+    margin: 0 auto 1.5rem;
+    position: relative;
+  }
 
   .sidebar .author__avatar img {
     display: none;
@@ -35,14 +45,15 @@ search: false
     width: 100%;
     padding-top: 100%;
     border-radius: 12px;
-    background: url("/assets/images/ltm-photo.jpg") center/cover no-repeat;
+    background: url("/assets/images/profile-photo.jpg") center/cover no-repeat;
   }
 
   html {
     font-size: 12px;
   }
-
 }
+
+
 
 /* 2 ▸ Enlarge the circular headshot in the sidebar */
 .sidebar .author__avatar {

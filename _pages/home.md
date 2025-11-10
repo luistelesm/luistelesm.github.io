@@ -23,7 +23,7 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or chec
 
 ### Job Market Paper
 
-**Mortgage structure, saving rates, and the wealth distribution**<br>[(paper)](/)
+**Mortgage structure, saving rates, and the wealth distribution**<br>[(paper)](/files/JMP_Luis_Teles_Morais.pdf)
 
  <details>
 
@@ -50,7 +50,7 @@ Conventional housing affordability metrics contradict the widespread perception 
  <small><strong>Presented at:</strong> 18th PEJ Meeting,\* 10th Luxembourg Household Finance and Consumption Workshop,\* Lisbon Mini Workshop on Housing Affordability,+ <i>(\*co-author, + scheduled)</i></small>
 
 
-**Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://www2.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/209/melissa-ferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)
+**Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://www2.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/209/melissa-ferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)<br> [(paper)](/)
 <details>
 
 <summary>Abstract</summary>

@@ -23,7 +23,7 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or chec
 
 ### Job Market Paper
 
-**Mortgage structure, saving rates, and the wealth distribution**<br>[(PDF)](/files/JMP_Luis_Teles_Morais.pdf)
+**Mortgage structure, household saving, and the wealth distribution**<br>[(PDF)](/files/JMP_Luis_Teles_Morais.pdf)
 
  <details>
 

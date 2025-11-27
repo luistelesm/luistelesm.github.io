@@ -50,7 +50,7 @@ Conventional housing affordability metrics contradict the widespread perception 
  <small><strong>Presented at:</strong> 18th PEJ Meeting,\* 10th Luxembourg Household Finance and Consumption Workshop,\* Lisbon Mini Workshop on Housing Affordability,+ <i>(\*co-author, + scheduled)</i></small>
 
 
-**Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://sites.google.com/view/anamelissaferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)<br> [(PDF)](/)
+**Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://sites.google.com/view/anamelissaferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)<br> [(PDF)](/files/MPP_21112025.pdf)
 <details>
 
 <summary>Abstract</summary>

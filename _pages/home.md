@@ -7,13 +7,11 @@ classes: "wide"   # adds a page-specific class
 ---
 
 
-Welcome! I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). **I am on the 2025/26 academic job market.**
+Welcome! I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt), and I will be joining [Rotterdam School of Management, Erasmus University](https://www.rsm.nl) this summer as Assistant Professor of Finance.
 
-My research interests lie in **macroeconomics and finance**, focusing on housing, household finance, consumption and saving, and monetary and fiscal policy.
+My research focuses on household finance, particularly housing and real estate, and its interaction with macroeconomic policy and financial regulation.
 
 During the PhD, I have been a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), [Baruch College](https://zicklin.baruch.cuny.edu/), and [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
-
-**References:** <br> [**João B. Duarte**](https://jbduarte.com), [**Miguel Ferreira**](https://www.miguelferreirafinance.com), [**Daniel L. Greenwald**](https://www.dlgreenwald.com), and [**Francesco Franco**](https://www.novasbe.unl.pt/en/faculty-research/faculty/faculty-detail/id/55/francesco-franco)
 
 Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or check out my CV [here](/files/CV_Luis_Teles_Morais.pdf). 
 
@@ -33,7 +31,7 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or chec
  
 </details>
 
- <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality, NYU Student Macro Lunch, Nova Finance Final Countdown, Banco de Portugal, 9th Luxembourg Household Finance and Consumption Workshop, LBS Trans-Atlantic Doctoral Conference 2025, 18th Young Economists' Seminar at HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th Portuguese Economic Journal Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, Nova Macro/Finance PhD Job Market Workshop, CIRET (KOF-ETH Zurich) Workshop 2025 (poster), 4th Naples PhD and Post-Doctoral Workshop, 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets, 8th Doctoral Workshop on Quantitative Dynamic Economics, AFA/ASSA 2026 (poster), 2026 Georgia Tech-Atlanta Fed Household Finance Conference (poster)+ <i>(+ scheduled)</i></small>
+ <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality, NYU Student Macro Lunch, Nova Finance Final Countdown, Banco de Portugal, 9th Luxembourg Household Finance and Consumption Workshop, LBS Trans-Atlantic Doctoral Conference 2025, 18th Young Economists' Seminar at HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th Portuguese Economic Journal Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, Nova Macro/Finance PhD Job Market Workshop, CIRET (KOF-ETH Zurich) Workshop 2025 (poster), 4th Naples PhD and Post-Doctoral Workshop, 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets, 8th Doctoral Workshop on Quantitative Dynamic Economics, AFA/ASSA 2026 (poster), 2026 Georgia Tech-Atlanta Fed Household Finance Conference (poster)+, 10th Anniversary SAFE Household Finance Workshop+ <i>(+ scheduled)</i></small>
 
 
 ### Working papers

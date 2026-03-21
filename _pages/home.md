@@ -7,7 +7,7 @@ classes: "wide"   # adds a page-specific class
 ---
 
 
-Welcome! I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt), and I will be joining [Rotterdam School of Management, Erasmus University](https://www.rsm.nl) this summer as Assistant Professor of Finance.
+Welcome! I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). I am joining [Rotterdam School of Management, Erasmus University](https://www.rsm.nl) this summer as Assistant Professor of Finance.
 
 My research focuses on household finance, particularly housing and real estate, and its interaction with macroeconomic policy and financial regulation.
 

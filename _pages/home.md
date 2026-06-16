@@ -31,7 +31,7 @@ Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or chec
  
 </details>
 
- <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality, NYU Student Macro Lunch, Nova Finance Final Countdown, Banco de Portugal, 9th Luxembourg Household Finance and Consumption Workshop, LBS Trans-Atlantic Doctoral Conference 2025, 18th Young Economists' Seminar at HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th Portuguese Economic Journal Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, Nova Macro/Finance PhD Job Market Workshop, CIRET (KOF-ETH Zurich) Workshop 2025 (poster), 4th Naples PhD and Post-Doctoral Workshop, 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets, 8th Doctoral Workshop on Quantitative Dynamic Economics, AFA/ASSA 2026 (poster), 2026 Georgia Tech-Atlanta Fed Household Finance Conference (poster)+, 10th Anniversary SAFE Household Finance Workshop+ <i>(+ scheduled)</i></small>
+ <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality, NYU Student Macro Lunch, Nova Finance Final Countdown, Banco de Portugal, 9th Luxembourg Household Finance and Consumption Workshop, LBS Trans-Atlantic Doctoral Conference 2025, 18th Young Economists' Seminar at HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th Portuguese Economic Journal Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, Nova Macro/Finance PhD Job Market Workshop, CIRET (KOF-ETH Zurich) Workshop 2025 (poster), 4th Naples PhD and Post-Doctoral Workshop, 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets, 8th Doctoral Workshop on Quantitative Dynamic Economics, ASSA/AFA 2026 (poster), 2026 Georgia Tech-Atlanta Fed Household Finance Conference (poster), 10th Anniversary SAFE Household Finance Workshop, ASSA/AREUEA 2027+ <i>(+ scheduled)</i></small>
 
 
 ### Working papers
@@ -45,7 +45,7 @@ Younger generations are less likely to own homes and increasingly report feeling
  
 </details>
 
- <small><strong>Presented at:</strong> 18th PEJ Meeting,\* 10th Luxembourg Household Finance and Consumption Workshop,\*, IARIW 2026\*+ <i>(\*co-author, + scheduled)</i></small>
+ <small><strong>Presented at:</strong> 18th PEJ Meeting,\* 10th Luxembourg Household Finance and Consumption Workshop,\*, 8th Baltic Economic Conference\*+, IARIW 2026\*+ <i>(\*co-author, + scheduled)</i></small>
 
 
 **Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://sites.google.com/view/anamelissaferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)<br> [(PDF)](/files/MPP_21112025.pdf)
@@ -56,11 +56,11 @@ Younger generations are less likely to own homes and increasingly report feeling
  
 </details>
 
- <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting\*, Sveriges Riksbank\*+ <i>(\*co-author, + scheduled)</i></small>
+ <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting\*, Sveriges Riksbank\*, 2026 IBEO Workshop\*+ <i>(\*co-author, + scheduled)</i></small>
 
 
 **The costs of building walls: immigration and the fiscal burden of aging in Europe** <br> with [Tiago Bernardino](https://www.tiagobernardino.com) and [Francesco Franco](https://economicsforpolicy.novasbe.pt/people/francesco-franco/)<br> [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)
-
+**Submitted**
  
 <details>
 
@@ -70,7 +70,7 @@ In low-fertility societies with working-age immigration, reducing inflows dispro
 </details>
 
 
-<small><strong>Presented at:</strong> Nova SBE, Stockholm University\*, 15th PEJ Meeting, 18th International Conference on Pension, Insurance and Saving, the 60th Public Choice Society meetings\*, the Lisbon Migration Economics Workshop\*, The Economics of Migration Junior Seminar, the 2nd NBER Conference on Fertility and Declining Population Growth, 3rd LACEA HUMANS Workshop CDMX, BSE Summer Forum\* <i>(* by co-author)</i></small>
+<small><strong>Presented at:</strong> Nova SBE, Stockholm University\*, 15th PEJ Meeting, 18th International Conference on Pension, Insurance and Saving, the 60th Public Choice Society meetings\*, the Lisbon Migration Economics Workshop\*, The Economics of Migration Junior Seminar, the 2nd NBER Conference on Fertility and Declining Population Growth, 3rd LACEA HUMANS Workshop CDMX, BSE Summer Forum\*, 19th PEJ Meeting+ <i>(* by co-author, + scheduled)</i></small>
 
 ### Work in progress
 

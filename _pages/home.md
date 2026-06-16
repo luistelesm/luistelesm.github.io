@@ -7,7 +7,7 @@ classes: "wide"   # adds a page-specific class
 ---
 
 
-Welcome! I am a **PhD candidate in Economics** at [Nova School of Business and Economics](http://novasbe.pt). I am joining [Rotterdam School of Management, Erasmus University](https://www.rsm.nl) this summer as Assistant Professor of Finance.
+Welcome! I am a PhD candidate in Economics at [Nova School of Business and Economics](http://novasbe.pt). I am joining [Rotterdam School of Management, Erasmus University](https://www.rsm.nl) this summer as Assistant Professor of Finance.
 
 My research focuses on household finance, particularly housing and real estate, and its interaction with macroeconomic policy and financial regulation.
 
@@ -59,7 +59,7 @@ Younger generations are less likely to own homes and increasingly report feeling
  <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting\*, Sveriges Riksbank\*+ <i>(\*co-author, + scheduled)</i></small>
 
 
-**The costs of building walls: immigration and the fiscal burden of aging in Europe** <br> with [Tiago Bernardino](https://www.tiagobernardino.com) and [Francesco Franco](https://economicsforpolicy.novasbe.pt/people/francesco-franco/)<br> [(paper)](/files/Costs_of_Building_Walls.pdf)
+**The costs of building walls: immigration and the fiscal burden of aging in Europe** <br> with [Tiago Bernardino](https://www.tiagobernardino.com) and [Francesco Franco](https://economicsforpolicy.novasbe.pt/people/francesco-franco/)<br> [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)
 
  
 <details>
@@ -79,8 +79,8 @@ In low-fertility societies with working-age immigration, reducing inflows dispro
 
 ### Other publications
 
-**Developing distributional national accounts: first attempt to estimate a joint distribution for income and wealth for the euro area**<br> with [Nina Blatnik](https://www.ecb.europa.eu/pub/research/authors/profiles/nina-blatnik.en.html) and [Ilja Kristian Kavonius](https://www.ecb.europa.eu/pub/research/authors/profiles/ilja-kristian-kavonius.en.html) <br>  [(ECB Working Paper)](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3142~33987afbdc.en.pdf?85e8c0f8721992582e68045cbb1d7538) <br>
-**R&R**, _Review of Income and Wealth_
+**First Attempt to Estimate a Joint Distribution for Income and Wealth within the Distributional National Accounts Framework**<br> with [Nina Blatnik](https://www.ecb.europa.eu/pub/research/authors/profiles/nina-blatnik.en.html) and [Ilja Kristian Kavonius](https://www.ecb.europa.eu/pub/research/authors/profiles/ilja-kristian-kavonius.en.html) <br>  [(ECB Working Paper)](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3142~33987afbdc.en.pdf?85e8c0f8721992582e68045cbb1d7538) <br>
+**Accepted**, _Review of Income and Wealth_
 
 
 <a id="discussions"></a>

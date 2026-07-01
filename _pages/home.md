@@ -7,13 +7,13 @@ classes: "wide"   # adds a page-specific class
 ---
 
 
-Welcome! I am a PhD candidate in Economics at [Nova School of Business and Economics](http://novasbe.pt). I am joining [Rotterdam School of Management, Erasmus University](https://www.rsm.nl) this summer as Assistant Professor of Finance.
+Welcome! I am an Assistant Professor of Finance at [Rotterdam School of Management, Erasmus University](https://www.rsm.nl).
 
 My research focuses on household finance, particularly housing and real estate, and its interaction with macroeconomic policy and financial regulation.
 
-During the PhD, I have been a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), [Baruch College](https://zicklin.baruch.cuny.edu/), and [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
+I am currently a PhD candidate in Economics at [Nova School of Business and Economics](http://novasbe.pt). During the PhD, I was a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), [Baruch College](https://zicklin.baruch.cuny.edu/), and [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
 
-Reach out at [luis.teles.m@novasbe.pt](mailto://luis.teles.m@novasbe.pt) or check out my CV [here](/files/CV_Luis_Teles_Morais.pdf). 
+Reach out at [teles@rsm.nl](mailto://teles@rsm.nl) or check out my CV [here](/files/CV_Luis_Teles_Morais.pdf). 
 
 
 <a id="research"></a>

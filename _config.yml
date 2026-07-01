@@ -64,9 +64,9 @@ plugins:
 author:
   name   : "Luís Teles Morais"
   avatar : "/assets/images/ltm-photo-large.jpg"
-  bio    : "PhD candidate <br> Nova School of Business and Economics"
+  bio    : "Assistant Professor <br> Rotterdam School of Management"
 #  location : "Cascais, Portugal"
-  email: "luis.teles.m@novasbe.pt"
+  email: "teles@rsm.nl"
   links:
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"

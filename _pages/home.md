@@ -9,9 +9,9 @@ classes: "wide"   # adds a page-specific class
 
 Welcome! I am an Assistant Professor of Finance at [Rotterdam School of Management, Erasmus University](https://www.rsm.nl).
 
-My research focuses on household finance, particularly housing and real estate, and its interaction with macroeconomic policy and financial regulation.
+My research mainly covers household finance, focusing on housing and mortgages, and its implications for macroeconomic policy and financial regulation.
 
-I am currently a PhD candidate in Economics at [Nova School of Business and Economics](http://novasbe.pt). During the PhD, I was a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), [Baruch College](https://zicklin.baruch.cuny.edu/), and [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
+I completed my PhD in Economics at [Nova School of Business and Economics](http://novasbe.pt). During the PhD, I was a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), [Baruch College](https://zicklin.baruch.cuny.edu/), and [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
 
 Reach out at [teles@rsm.nl](mailto://teles@rsm.nl) or check out my CV [here](/files/CV_Luis_Teles_Morais.pdf). 
 
@@ -45,7 +45,7 @@ Younger generations are less likely to own homes and increasingly report feeling
  
 </details>
 
- <small><strong>Presented at:</strong> 18th PEJ Meeting,\* 10th Luxembourg Household Finance and Consumption Workshop,\*, 8th Baltic Economic Conference\*+, IARIW 2026\*+ <i>(\*co-author, + scheduled)</i></small>
+ <small><strong>Presented at:</strong> 18th PEJ Meeting,\* 10th Luxembourg Household Finance and Consumption Workshop\*, 8th Baltic Economic Conference\*, IARIW 2026\*+ <i>(\*co-author, + scheduled)</i></small>
 
 
 **Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://sites.google.com/view/anamelissaferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)<br> [(PDF)](/files/MPP_21112025.pdf)
@@ -56,7 +56,7 @@ Younger generations are less likely to own homes and increasingly report feeling
  
 </details>
 
- <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting\*, Sveriges Riksbank\*, 2026 IBEO Workshop\*+ <i>(\*co-author, + scheduled)</i></small>
+ <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting\*, Sveriges Riksbank\*, 2026 IBEO Workshop\* <i>(\*co-author, + scheduled)</i></small>
 
 
 **The costs of building walls: immigration and the fiscal burden of aging in Europe** <br> with [Tiago Bernardino](https://www.tiagobernardino.com) and [Francesco Franco](https://economicsforpolicy.novasbe.pt/people/francesco-franco/)<br> [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)

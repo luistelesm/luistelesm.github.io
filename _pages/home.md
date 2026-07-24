@@ -72,10 +72,6 @@ In low-fertility societies with working-age immigration, reducing inflows dispro
 
 <small><strong>Presented at:</strong> Nova SBE, Stockholm University\*, 15th PEJ Meeting, 18th International Conference on Pension, Insurance and Saving, the 60th Public Choice Society meetings\*, the Lisbon Migration Economics Workshop\*, The Economics of Migration Junior Seminar, the 2nd NBER Conference on Fertility and Declining Population Growth, 3rd LACEA HUMANS Workshop CDMX, BSE Summer Forum\*, 19th PEJ Meeting+ <i>(* by co-author, + scheduled)</i></small>
 
-### Work in progress
-
-**Access to homeownership and the transmission of monetary and fiscal policy** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)
-
 
 ### Publications
 

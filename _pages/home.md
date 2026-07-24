@@ -77,11 +77,10 @@ In low-fertility societies with working-age immigration, reducing inflows dispro
 **Access to homeownership and the transmission of monetary and fiscal policy** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)
 
 
-### Other publications
+### Publications
 
-**First Attempt to Estimate a Joint Distribution for Income and Wealth within the Distributional National Accounts Framework**<br> with [Nina Blatnik](https://www.ecb.europa.eu/pub/research/authors/profiles/nina-blatnik.en.html) and [Ilja Kristian Kavonius](https://www.ecb.europa.eu/pub/research/authors/profiles/ilja-kristian-kavonius.en.html) <br>  [(ECB Working Paper)](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3142~33987afbdc.en.pdf?85e8c0f8721992582e68045cbb1d7538) <br>
-**Accepted**, _Review of Income and Wealth_
-
+**First Attempt to Estimate a Joint Distribution for Income and Wealth within the Distributional National Accounts Framework**<br> with [Nina Blatnik](https://www.ecb.europa.eu/pub/research/authors/profiles/nina-blatnik.en.html) and [Ilja Kristian Kavonius](https://www.ecb.europa.eu/pub/research/authors/profiles/ilja-kristian-kavonius.en.html) <br> 
+_Review of Income and Wealth_, 72(3) [(link)](https://onlinelibrary.wiley.com/toc/14754991/2026/72/3)
 
 <a id="discussions"></a>
 ## Discussions at conferences and seminars

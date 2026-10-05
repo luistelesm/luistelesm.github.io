@@ -11,6 +11,8 @@ Welcome! I am an Assistant Professor of Finance at [Rotterdam School of Manageme
 
 My research mainly covers household finance, focusing on housing and mortgages, and its implications for macroeconomic policy and financial regulation.
 
+This fall, I am visiting [Leibniz Institute for Financial Research SAFE](https://safe-frankfurt.de/research/research-departments/household-finance.html) in Frankfurt am Main, Germany.
+
 I completed my PhD in Economics at [Nova School of Business and Economics](http://novasbe.pt). During the PhD, I was a visiting student at [NYU Stern](https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance), [Baruch College](https://zicklin.baruch.cuny.edu/), and [U. Pompeu Fabra](https://www.upf.edu/web/econ/). I also worked at the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html).
 
 Reach out at [teles@rsm.nl](mailto://teles@rsm.nl) or check out my CV [here](/files/CV_Luis_Teles_Morais.pdf). 
@@ -19,9 +21,9 @@ Reach out at [teles@rsm.nl](mailto://teles@rsm.nl) or check out my CV [here](/fi
 <a id="research"></a>
 ## Research
 
-### Job Market Paper
+### Working papers
 
-**Mortgage structure, household saving, and the wealth distribution**<br>[(PDF)](/files/JMP_Luis_Teles_Morais.pdf)
+**Mortgage structure, household saving, and the wealth distribution** (_JMP_) <br>[(PDF)](/files/JMP_Luis_Teles_Morais.pdf)
 
  <details>
 
@@ -31,33 +33,13 @@ Reach out at [teles@rsm.nl](mailto://teles@rsm.nl) or check out my CV [here](/fi
  
 </details>
 
- <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality, NYU Student Macro Lunch, Nova Finance Final Countdown, Banco de Portugal, 9th Luxembourg Household Finance and Consumption Workshop, LBS Trans-Atlantic Doctoral Conference 2025, 18th Young Economists' Seminar at HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th Portuguese Economic Journal Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, Nova Macro/Finance PhD Job Market Workshop, CIRET (KOF-ETH Zurich) Workshop 2025 (poster), 4th Naples PhD and Post-Doctoral Workshop, 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets, 8th Doctoral Workshop on Quantitative Dynamic Economics, ASSA/AFA 2026 (poster), 2026 Georgia Tech-Atlanta Fed Household Finance Conference (poster), 10th Anniversary SAFE Household Finance Workshop, ASSA/AREUEA 2027+ <i>(+ scheduled)</i></small>
+ <details>
 
+<summary>Presentations</summary>
 
-### Working papers
-
-**The cost of homeownership** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)<br>[(PDF)](/files/HAI_31102025.pdf)
-
-<details>
-
-<summary>Abstract</summary>
-Younger generations are less likely to own homes and increasingly report feeling priced out. Yet conventional metrics suggest homeownership in the United States is about as affordable today as in 2000. We develop a microfounded measure of the cost of homeownership that resolves this disconnect by explicitly accounting for the frictional transition into ownership. Within a standard income fluctuations model with realistic housing finance, we define the cost of becoming a homeowner as the consumption-equivalent welfare loss of financing a house purchase, relative to a free-housing counterfactual. Unlike existing metrics, our measure captures the burden of forgoing liquidity to accumulate a downpayment, and is not tied to whether mortgage payments fit within current income. Applied to US data from 2000 to 2023, it shows a 32% increase in costs for the median first-time buyer, rising to 58% for low-earners, while the top income quintile saw no increase. Tighter macroprudential policies were a key driver, by raising downpayment requirements. This measure centers the housing affordability debate on the costs of entry into homeownership, revealing how liquidity constraints and credit regulation, rather than house price dynamics alone, are the primary barriers faced by younger and lower-income households.<br><br>
+   <small><strong>Presented at:</strong> LIS Conference on Income and wealth inequality, NYU Student Macro Lunch, Nova Finance Final Countdown, Banco de Portugal, 9th Luxembourg Household Finance and Consumption Workshop, LBS Trans-Atlantic Doctoral Conference 2025, 18th Young Economists' Seminar at HNB Dubrovnik Economic Conference, 7th Baltic Economic Conference, 18th Portuguese Economic Journal Meeting, XXVIII Vigo Workshop on Dynamic Macroeconomics, AREUEA International Conference 2025 Barcelona, Nova Macro/Finance PhD Job Market Workshop, CIRET (KOF-ETH Zurich) Workshop 2025 (poster), 4th Naples PhD and Post-Doctoral Workshop, 1st Zurich-Oxford Doctoral Symposium on Real Estate Markets, 8th Doctoral Workshop on Quantitative Dynamic Economics, ASSA/AFA 2026 (poster), 2026 Georgia Tech-Atlanta Fed Household Finance Conference (poster), 10th Anniversary SAFE Household Finance Workshop, ASSA/AREUEA 2027+ <i>(+ scheduled)</i></small> <br><br>
  
 </details>
-
- <small><strong>Presented at:</strong> 18th PEJ Meeting,\* 10th Luxembourg Household Finance and Consumption Workshop\*, 8th Baltic Economic Conference\*, IARIW 2026\*+ <i>(\*co-author, + scheduled)</i></small>
-
-
-**Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://sites.google.com/view/anamelissaferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)<br> [(PDF)](/files/MPP_21112025.pdf)
-<details>
-
-<summary>Abstract</summary>
- How does monetary policy affect household portfolio composition? Resorting to highly granular data on the balance sheets of Norwegian households, we analyze how their wealth portfolios change in response to well-identified monetary policy shocks. We document new empirical facts about how household portfolios adjust to monetary tightening: i) total portfolio size rises initially but contracts after two years; ii) risky asset values decline, while housing wealth increases briefly before falling, with secondary residences showing a pronounced short-run rise; iii) financially active households rebalance by increasing their holdings of stocks and private-equity; iv) decreases in risky asset values are concentrated among the wealthiest households; v) housing responses are highly heterogeneous, with richer households expanding primary and secondary housing; vi) holding adjustments vary across the wealth distribution: stock holdings increase slightly more at the top, while private-equity increases are concentrated in the tails.<br><br>
- 
-</details>
-
- <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting\*, Sveriges Riksbank\*, 2026 IBEO Workshop\* <i>(\*co-author, + scheduled)</i></small>
-
 
 **The costs of building walls: immigration and the fiscal burden of aging in Europe** <br> with [Tiago Bernardino](https://www.tiagobernardino.com) and [Francesco Franco](https://economicsforpolicy.novasbe.pt/people/francesco-franco/)<br> [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4932922)
 **Submitted**
@@ -73,10 +55,49 @@ In low-fertility societies with working-age immigration, reducing inflows dispro
 <small><strong>Presented at:</strong> Nova SBE, Stockholm University\*, 15th PEJ Meeting, 18th International Conference on Pension, Insurance and Saving, the 60th Public Choice Society meetings\*, the Lisbon Migration Economics Workshop\*, The Economics of Migration Junior Seminar, the 2nd NBER Conference on Fertility and Declining Population Growth, 3rd LACEA HUMANS Workshop CDMX, BSE Summer Forum\*, 19th PEJ Meeting+ <i>(* by co-author, + scheduled)</i></small>
 
 
+
+### Work in progress
+
+**The cost of homeownership** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)<br>[(PDF)](/files/HAI_31102025.pdf)
+
+<details>
+
+<summary>Abstract</summary>
+Younger generations are less likely to own homes and increasingly report feeling priced out. Yet conventional metrics suggest homeownership in the United States is about as affordable today as in 2000. We develop a microfounded measure of the cost of homeownership that resolves this disconnect by explicitly accounting for the frictional transition into ownership. Within a standard income fluctuations model with realistic housing finance, we define the cost of becoming a homeowner as the consumption-equivalent welfare loss of financing a house purchase, relative to a free-housing counterfactual. Unlike existing metrics, our measure captures the burden of forgoing liquidity to accumulate a downpayment, and is not tied to whether mortgage payments fit within current income. Applied to US data from 2000 to 2023, it shows a 32% increase in costs for the median first-time buyer, rising to 58% for low-earners, while the top income quintile saw no increase. Tighter macroprudential policies were a key driver, by raising downpayment requirements. This measure centers the housing affordability debate on the costs of entry into homeownership, revealing how liquidity constraints and credit regulation, rather than house price dynamics alone, are the primary barriers faced by younger and lower-income households.<br><br>
+ 
+</details>
+
+<details>
+
+<summary>Presentations</summary>
+
+ <small><strong>Presented at:</strong> 18th PEJ Meeting,\* 10th Luxembourg Household Finance and Consumption Workshop\*, 8th Baltic Economic Conference\*, IARIW 2026\*+ <i>(\*co-author, + scheduled)</i></small>
+
+</details>
+
+**Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://sites.google.com/view/anamelissaferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)<br> [(PDF)](/files/MPP_21112025.pdf)
+<details>
+
+<summary>Abstract</summary>
+ How does monetary policy affect household portfolio composition? Resorting to highly granular data on the balance sheets of Norwegian households, we analyze how their wealth portfolios change in response to well-identified monetary policy shocks. We document new empirical facts about how household portfolios adjust to monetary tightening: i) total portfolio size rises initially but contracts after two years; ii) risky asset values decline, while housing wealth increases briefly before falling, with secondary residences showing a pronounced short-run rise; iii) financially active households rebalance by increasing their holdings of stocks and private-equity; iv) decreases in risky asset values are concentrated among the wealthiest households; v) housing responses are highly heterogeneous, with richer households expanding primary and secondary housing; vi) holding adjustments vary across the wealth distribution: stock holdings increase slightly more at the top, while private-equity increases are concentrated in the tails.<br><br>
+ 
+</details>
+
+ <small><strong>Presented at:</strong> Statistics Norway\*, 2024 Royal Economic Society\*, University of Oslo\*, LSE Student Seminar\*, 12th Swedish National PhD Workshop in Finance\*, 18th PEJ Meeting\*, Sveriges Riksbank\*, 2026 IBEO Workshop\* <i>(\*co-author, + scheduled)</i></small>
+
+
+
 ### Publications
 
 **First Attempt to Estimate a Joint Distribution for Income and Wealth within the Distributional National Accounts Framework**<br> with [Nina Blatnik](https://www.ecb.europa.eu/pub/research/authors/profiles/nina-blatnik.en.html) and [Ilja Kristian Kavonius](https://www.ecb.europa.eu/pub/research/authors/profiles/ilja-kristian-kavonius.en.html) <br> 
 _Review of Income and Wealth_, 72(3) [(link)](https://onlinelibrary.wiley.com/toc/14754991/2026/72/3)
+
+<details>
+
+<summary>Abstract</summary>
+Over recent years, there have been several projects to include distributional aspects in the national accounts' framework. Household distributional information will also be covered in the 2025 SNA. Additionally, increasing emphasis has been placed on covering all material aspects of welfare at the macro as well as micro level in the same macro and micro framework: income, consumption, and wealth. The purpose of this article is to create distributional multidimensional accounts covering income and wealth. The starting point is the Distributional Wealth Accounts, an experimental quarterly dataset which was published for the first time in January 2024 by the European System of the Central Banks. The Distributional Wealth Accounts integrates the Household Finance and Consumption Survey with macroeconomic statistics on household financial and non-financial balance sheets. The principal idea is to use the Household Finance and Consumption Survey, and by the same token its same micro population, to estimate consistent joint income transactions for these households. This approach allows us to analyze joint income and wealth distribution as well as, for instance, wealth distribution by income decile.<br><br>
+ 
+</details>
 
 <a id="discussions"></a>
 ## Discussions at conferences and seminars

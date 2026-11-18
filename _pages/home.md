@@ -58,7 +58,7 @@ In low-fertility societies with working-age immigration, reducing inflows dispro
 
 ### Work in progress
 
-**The cost of homeownership** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)<br>[(PDF)](/files/HAI_31102025.pdf)
+**The cost of homeownership** <br> with [João B. Duarte](https://jbduarte.com) and [Francisco Rodrigues](https://www.novasbe.unl.pt/en/programs/phds/phd-in-economics-finance/phd-students/current-phd-students/id/1179/francisco-franca-rodrigues)<br>[(PDF)](/)
 
 <details>
 
@@ -75,7 +75,7 @@ Younger generations are less likely to own homes and increasingly report feeling
 
 </details>
 
-**Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://sites.google.com/view/anamelissaferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)<br> [(PDF)](/files/MPP_21112025.pdf)
+**Monetary policy and household portfolio composition** <br> with [Tiago Bernardino](https://www.tiagobernardino.com), [Pedro Brinca](https://pedrobrinca.pt), [Ana Melissa Ferreira](https://sites.google.com/view/anamelissaferreira), [Hans Holter](https://sites.google.com/site/hansaholter/) and [Mariana N. Pires](http://www.mariananetopires.com)<br> [(PDF)](/)
 <details>
 
 <summary>Abstract</summary>
